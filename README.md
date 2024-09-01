@@ -183,7 +183,7 @@
 |[任鑫每日笔记（2024年12月完结）](https://xiaobot.net/p/ideas?refer=0b133df9-27dc-423b-8101-639049001c13)|@Mars任鑫|38人|543篇|2021-12-01|2024-08-01|[详情](data/ideas.md)|
 |[三生有幸·第一季(2024)](https://xiaobot.net/p/JoyfulFlow?refer=0b133df9-27dc-423b-8101-639049001c13)|@三生有幸|43人|15篇|2023-12-18|2024-08-01|[详情](data/JoyfulFlow.md)|
 |[AI+ 英语学习手册](https://xiaobot.net/p/qiaozhihekemiya?refer=0b133df9-27dc-423b-8101-639049001c13)|@王艾薇|201人|23篇|2023-12-27|2024-08-01|[详情](data/qiaozhihekemiya.md)|
-|[自我领导 | 精修社](https://xiaobot.net/p/runwithcc?refer=0b133df9-27dc-423b-8101-639049001c13)|@易仁永澄|113人|75篇|2023-04-01|2024-08-01|[详情](data/runwithcc.md)|
+|[自我领导 - 精修社](https://xiaobot.net/p/runwithcc?refer=0b133df9-27dc-423b-8101-639049001c13)|@易仁永澄|113人|75篇|2023-04-01|2024-08-01|[详情](data/runwithcc.md)|
 |[AIGC大模型零成本赚钱](https://xiaobot.net/p/chat?refer=0b133df9-27dc-423b-8101-639049001c13)|@IDO老徐|3547人|165篇|2023-02-16|2024-07-31|[详情](data/chat.md)|
 |[纯银的 60 篇产品分析 · 第七季连载](https://xiaobot.net/p/pmdogs7?refer=0b133df9-27dc-423b-8101-639049001c13)|@纯银|1501人|59篇|2024-03-07|2024-07-31|[详情](data/pmdogs7.md)|
 |[视频号可复制案例库](https://xiaobot.net/p/401?refer=0b133df9-27dc-423b-8101-639049001c13)|@IDO老徐|1017人|97篇|2022-09-14|2024-07-30|[详情](data/401.md)|
