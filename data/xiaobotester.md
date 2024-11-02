@@ -7,9 +7,15 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[小博学习笔记](https://xiaobot.net/p/xiaobotester?refer=0b133df9-27dc-423b-8101-639049001c13)|小博|5人|86篇|2024-09-12|
+|[小博学习笔记](https://xiaobot.net/p/xiaobotester?refer=0b133df9-27dc-423b-8101-639049001c13)|小博|5人|87篇|2024-10-17|
 
 ## 最近更新
+### JB全家桶不限版本激活
+
+https://3.jetbra.in/
+
+有需要的自己测试下
+
 ### 网盘扩容后存东西很爽，再也不用为了空间专门开会员了
 
 ![](https://static.xiaobot.net/file/2024-09-12/263773/d4fb9e5e18fab6270611380ffb6214f2.png)![](https://static.xiaobot.net/file/2024-09-12/263773/053e23bf3385dc3ca8ae0d66d11e7805.png)
@@ -112,10 +118,6 @@ https://mp.weixin.qq.com/s/JaI1vgAA9m0G-3U61iILkw
 Python中怎么判断一个对象是否为可迭代对象？
 
 要判断一个对象是否......
-
-### Python-字典推导式
-
-练习题：
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

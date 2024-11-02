@@ -8,10 +8,25 @@
 
 
 |名称|作者|读者数量|内容数量|更新时间|
-|---|---|---|---|---|---|
-|[.NET 内网实战攻防](https://xiaobot.net/p/dotNetAttack?refer=0b133df9-27dc-423b-8101-639049001c13)|ken|226人|20篇|2024-10-08|
+|---|---|---|---|---|
+|[.NET 内网实战攻防](https://xiaobot.net/p/dotNetAttack?refer=0b133df9-27dc-423b-8101-639049001c13)|ken|248人|23篇|2024-10-28|
 
 ## 最近更新
+### .NET 通过指定的COM接口执行命令绕过UAC
+
+在Windows操作系统中，UAC（用户帐户控制）机制用于防止未经授权的程序以管理员权限执行操作，从而增加系统安全性。然而，特定的系统组件和接口，例如
+CMSTPLUA 组件中的 ICMLuaU......
+
+### .NET 通过调用API接口模拟实现PowerShell
+
+在红队内网渗透中，PowerShell 常常被用于执行各种任务，然而也常常受到安全工具的监控。因此，寻找和开发一个能够有效规避检测的 PowerShell
+替代工具是非常有意义的。本文将介绍一种......
+
+### .NET 通过白名单文件反序列化漏洞绕过UAC
+
+在渗透测试和红队活动中，权限提升是重要的一环，尤其是在没有管理员权限的情况下执行更高权限的操作。有一种思路利用 Windows 事件查看器
+(eventvwr.msc) 的高权限加载特性和 XA......
+
 ### .NET 通过第三方库批量读取Word敏感数据
 
 借助 Microsoft.Office.Interop.Word 和 Marshal.GetActiveObject，红队可以自动化地读取
@@ -46,20 +61,6 @@ Microsoft 签名的合法二进制文件，允许通过交互......
 ### .NET 通过执行XOML文件代码绕过安全防护
 
 WFC.exe是一款工具，用于执行嵌入在XOML中的.NET代码。由于该程序自带微软的数字签名，它能够绕过杀毒软件的监控，执行潜在的恶意代码。该技术利用了XOML的合法性以及系统中对白名单程序的......
-
-### .NET 通过回调函数执行 Shellcode启动进程
-
-在红队活动往往需要考虑如何在实际环境中绕过防御机制，启动木马进程。今天，我们将深入探讨一种较少被提及但非常有趣的技术——利用 EnumPwrSchemes
-函数回调来执行shellcode。
-
-### .NET 内网通过执行命令查找出网机器
-
-在红队活动中，信息收集是内网渗透测试的首要步骤，了解内网中哪些主机可以连通外部网络，是攻击者成功渗透的关键之一。本文将介绍如何通过.NET代码执行
-nslookup 命令来进行内网信息收集，并快......
-
-### .NET 通过进程管道执行CMD命令
-
-通过直接调用Windows系统kernel32.dll中的CreateProcess函数实现任意命令执行并在黑屏上显示命令执行后的结果，可以在内网渗透阶段规避安全防护设备的拦截和告警，因此这种技......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

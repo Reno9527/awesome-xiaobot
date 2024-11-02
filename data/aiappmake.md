@@ -16,9 +16,17 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[零代码AI应用制作指南](https://xiaobot.net/p/aiappmake?refer=0b133df9-27dc-423b-8101-639049001c13)|天蓝|1051人|55篇|2024-08-09|
+|[零代码AI应用制作指南](https://xiaobot.net/p/aiappmake?refer=0b133df9-27dc-423b-8101-639049001c13)|天蓝|1051人|56篇|2024-10-10|
 
 ## 最近更新
+### 讯飞助手｜例子：语言翻译小助手
+
+访问 xinghuo.xfyun.cn/botcenter 进入主页面后，创建助手-创建新助手。
+
+一、基本信息
+
+语言翻译一直是令人头痛的问题，不过现在我们拥有了 AI ......
+
 ### 智谱清言 AI 智能体｜例子: AI 图片生成器
 
 一、创建智能体
@@ -106,16 +114,6 @@
 二、创建一个机器人一) 创建 Bot
 
 二）完善 B......
-
-### 字节扣子 Bot ｜ Bot 制作流程
-
-一、扣子 Bot 创建入口
-
-点击链接www.coze.cn/home，登录扣子，点击侧边栏的创建bot按钮，开始创建机器人
-
-二、创建流程
-
-点击......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

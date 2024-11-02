@@ -6,10 +6,29 @@
 
 
 |名称|作者|读者数量|内容数量|更新时间|
-|---|---|---|---|---|---|
-|[AI搞钱周刊](https://xiaobot.net/p/dse?refer=0b133df9-27dc-423b-8101-639049001c13)|殷建松Jason|56人|88篇|2024-10-08|
+|---|---|---|---|---|
+|[AI搞钱周刊](https://xiaobot.net/p/dse?refer=0b133df9-27dc-423b-8101-639049001c13)|殷建松Jason|50人|91篇|2024-10-31|
 
 ## 最近更新
+### 统一图像生成与众擎机器人
+
+卷首语
+
+本文聚焦于两项前沿科技：OmniGen多模态图像生成模型和EngineAI众擎机器人的SE01人形机器人。OmniGen以其无需额外模块即可处理多种控制条件的特性，简化了图像生成流程，降低......
+
+### 多模态语言模型和 AI 代理
+
+卷首语
+
+在当今这个快速变化的时代，人工智能（AI）正以前所未有的速度重塑我们的工作、生活和学习方式。随着技术的不断进步，AI的应用已经从简单的自动化任务扩展到了更加复杂和创新的领域。在这一背景下，......
+
+### 治疗大模型和AI智能体耳机
+
+卷首语
+
+在科技的浪潮中，AI 正以其独特的力量重塑我们的世界。Google 的 Tx-LLM 模型和字节跳动的 Ola Friend
+耳机，分别在医疗和个人娱乐领域展现了 AI 的巨大潜力。Tx-......
+
 ### 拥抱变革：OpenAI O1模型引领的AI新时代
 
 卷首语
@@ -58,27 +77,6 @@ AI代表了人工智能领域的创新成果。Step-1X利用深度学习技术�
 
 在这个智能技术飞速发展的时代，我们正站在人工智能革命的前沿。本周，我们有幸见证了两项令人瞩目的技术突破：腾讯的Hunyuan-
 Vision和Google的Gemini 1.5 Pro。Hu......
-
-### Open AI的StrawBerry与GPT-4o mini
-
-卷首语
-
-在人工智能的快速发展中，Open AI的StrawBerry项目和GPT-4o
-mini模型代表了两项重要的技术突破。StrawBerry项目致力于开发一个具有高级推理能力的人工智能系统，......
-
-### 亚马逊的 Amazon App Studio 与 SenseNova 5.5
-
-卷首语
-
-"在数字化和智能化的浪潮中，两大创新平台——Amazon App Studio 和 SenseNova
-5.5——正以其创新的工具和算法，推动应用开发和人工智能技术的融合与进步。Amazo......
-
-### SenseTime 的 Vim 与 Figma 的 AI 助手
-
-智能技术不断突破的时代，我们站在了人工智能革命的前沿。本周，我们将带您领略两项令人瞩目的技术突破：Figma 的 AI 助手和 SenseTime 的
-Vimi
-
-Vimi 和 Fig......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

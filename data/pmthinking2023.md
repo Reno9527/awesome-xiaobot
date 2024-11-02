@@ -14,9 +14,15 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[产品沉思录 - 第七季（完结）](https://xiaobot.net/p/pmthinking2023?refer=0b133df9-27dc-423b-8101-639049001c13)|shaonan × fonter|5934人|51篇|2024-06-10|
+|[产品沉思录 - 第七季（完结）](https://xiaobot.net/p/pmthinking2023?refer=0b133df9-27dc-423b-8101-639049001c13)|shaonan × fonter|5949人|52篇|2024-10-27|
 
 ## 最近更新
+### SP.01：撤退比进攻更难
+
+Lighthouse at Stora Bält by Anton Melbye @ 1846
+
+电影《师父》中有一句台词印象很深：每日挥刀 500 下，这个数管住了我。......
+
 ### Vol.048：离别，是为了更好的相聚
 
 > 本期概要：
@@ -662,16 +668,6 @@ by shaonan
 产品：产品经理是组织中促进通信的 API
 
 <......
-
-### Vol.039：诞生于验证码的 Duolingo
-
-本期概要：
-
-羔羊：Luis von Ahn 与他的 Duolingo
-
-观点：Ivan Zhao（Notion CEO） 论 AI
-
-观点：如果你想为自己减负
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

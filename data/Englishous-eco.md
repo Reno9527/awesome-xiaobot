@@ -6,79 +6,78 @@
 
 
 |名称|作者|读者数量|内容数量|更新时间|
-|---|---|---|---|---|---|
-|[英语日食记外刊精读](https://xiaobot.net/p/Englishous-eco?refer=0b133df9-27dc-423b-8101-639049001c13)|7 sir|23人|163篇|2024-10-07|
+|---|---|---|---|---|
+|[英语日食记外刊精读](https://xiaobot.net/p/Englishous-eco?refer=0b133df9-27dc-423b-8101-639049001c13)|7 sir|23人|189篇|2024-11-01|
 
 ## 最近更新
-### 【拓展阅读】AI and globalisation are shaking up software developers’ world
-人工智能和全球化正在撼动软件开发人员的世界
+### 【经济学人精读】Slow iPhone sales could sour Apple ｜ iPhone销售疲软或成苹果发展隐忧
+
+原文
+
+Apple will try to make its latest earnings report on Thursday all about the
+promise of a......
+
+### 【经济学人精读】America’s pre-election economic bounce 美国大选前的经济反弹
+
+原文
+
+An oft-cited quip about American elections is that “it’s the economy, stupid”.
+If that w......
+
+### 【经济学人精读】Too many people want to be social-media influencers 太多人想成为社交媒体网红
+
+原文
+
+Influencers are now deeply integrated into the fabric of modern consumer
+culture, with c......
+
+### 【经济学人精读】The $60bn big-tech earnings question 科技巨头600亿美元的盈利问题
+
+原文
+
+Alphabet, Google’s parent company, reports quarterly earnings on Tuesday,
+kicking off th......
+
+### 【经济学人精读】How bad are video games for your grades? 电子游戏对成绩有多大影响？
+
+原文
+
+In Teyvat, a magical realm, you’re separated from your twin by a god and
+embark on a jou......
+
+### 【拓展阅读】Elon’s $1m voter 埃隆的 100 万美元选民
 
 摘要
 
-本文探讨了软件开发领域的两大转变：生成式AI的广泛应用和新兴市场编程人才的崛起。AI工具正在改变开发者的工作方式，提高效率并简化某些任务。然而，AI仍有局限性，无法完全取代人类......
+本文探讨了埃隆·马斯克在2024年美国总统大选中推出的一项具有争议性的计划。在选情胶着之际，马斯克提出向支持宪法第一、第二修正案的选民提供赢取百万美元奖金的机会，此举被认为是为......
 
-### 【拓展阅读】A map of a fruit fly’s brain could help us understand our own
-果蝇的大脑图谱可以帮助我们了解自己的大脑
-
-摘要
-
-本文讨论了大脑进化在生物多样性中的关键作用，并介绍了最新的果蝇大脑连接组研究成果。研究人员成功绘制了成年果蝇大脑近14万个神经元的完整图谱，这一突破性成就为理解复杂神经系统提供......
-
-### 【经济学人精读】Coldplay’s new album 酷玩乐队推出新专辑
-
-原文
-
-Young women have often held the pop charts. (This summer has been dominated by
-artists l......
-
-### 【经济学人精读】A breakthrough in panda conservation 大熊猫保护工作取得重大突破
-
-原文
-
-Giant pandas are rightly held up as a conservation success story. In 2016 the
-species’ e......
-
-### 【经济学人精读】Roche’s big bet on obesity drugs 罗氏押注减肥药市场
-
-原文
-
-Roche holds an investors’ day on Monday. The Swiss pharmaceutical giant is
-trying to ent......
-
-### 【经济学人精读】Kamala Harris adds to her war chest 哈里斯增加其竞选资金
-
-原文
-
-Kamala Harris is back in her home state of California this weekend, hosting
-back-to-back......
-
-### 【经济学人精读】The queen of contemporary art 当代艺术女王
-
-原文
-
-Last year Yayoi Kusama dethroned David Hockney as the highest-earning
-contemporary artis......
-
-### 【拓展阅读】The Malcolm Gladwell rule： how to succeed while annoying critics
-｜马尔科姆·格拉德威尔法则：如何在惹恼批评者的同时取得成功
+### 【拓展阅读】Memory chips could be the next bottleneck for AI 内存芯片可能成为人工智能的下一个瓶颈
 
 摘要
 
-本文评析了畅销书作家马尔科姆·格拉德威尔的写作风格、成就和争议。格拉德威尔以将社会科学理论应用于流行文化和日常生活而闻名，他的书籍常常围绕反直觉的论点展开，通过生动的故事和简化......
+本文揭示了半导体行业中AI芯片与其他芯片的市场分化现象。在AI技术快速发展的背景下，高带宽存储（HBM）芯片因其在AI模型运行中的关键作用而备受关注。这种芯片通过集成存储和逻辑功能，大大提高......
 
-### 【拓展阅读】What does the OpenAI exodus say about Sam Altman? ｜
-OpenAI高管出走潮透露了什么关于山姆·奥特曼的信息？
-
-摘要
-
-本文探讨了人工智能公司OpenAI近期面临的内部动荡和管理挑战。公司多名高级管理人员，包括首席技术官米拉·穆拉蒂在内的多位创始成员相继离职，引发了对CEO山姆·奥特曼领导能力的......
-
-### 【经济学人精读】A new hope for schizophrenia 精神分裂症治疗迎来新希望
+### 【经济学人精读】It’s not just obesity. Drugs like Ozempic will change the world
+不仅仅是肥胖。司美格鲁肽等药物将改变世界
 
 原文
 
-On Thursday America’s Food and Drug Administration will evaluate KarXT, a
-novel antipsyc......
+The arrival of GLP-1 drugs, first used for diabetes, is revolutionizing
+medicine, tackli......
+
+### 【经济学人精读】Trump woos Nevada 特朗普争取内华达州
+
+原文
+
+Political pundits in Nevada like to remind those in Washington, DC how much
+the Silver S......
+
+### 【经济学人精读】All eyes on Tesla 特斯拉备受关注
+
+原文
+
+Third-quarter results, due on Wednesday, might deliver a glimmer of good news
+for Tesla.......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

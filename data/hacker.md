@@ -7,68 +7,74 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[安全RSS](https://xiaobot.net/p/hacker?refer=0b133df9-27dc-423b-8101-639049001c13)|bot|271人|45篇|2024-09-11|
+|[安全RSS](https://xiaobot.net/p/hacker?refer=0b133df9-27dc-423b-8101-639049001c13)|bot|281人|58篇|2024-11-01|
 
 ## 最近更新
-### 花了20美元来实现RCE，却意外地成为了.MOBI的管理员。
+### 剖析LLM RCE
 
-这篇文章描述了一个安全研究人员在一次渗透测试中意外获得目标系统管理员权限的过程。作者花费 20
-美元购买了一个漏洞赏金计划的漏洞利用服务,最终通过一系列步骤实现了远程代码执行(RCE),并意外获......
+这篇文章探讨了大型语言模型（LLM）在集成过程中可能导致的远程代码执行（RCE）漏洞，特别是在 LoLLMs 项目中的实现。随着 LLM
+功能的增强，其安全风险也随之增加，攻击者可以利用这些漏洞......
 
-### 一款c语言编写的浏览器解密工具
+### 动态加载 WinHTTP.dll
 
-比较少见的c语言编写的浏览器解密，优点是可以改造为BOF或者通过PEload进行执行。
+这篇文章探讨了在开发自定义命令与控制（C2）系统时，如何动态加载 Windows DLL（特别是
+WINHTTP.DLL），以提高操作安全性（OPSEC）并减少被检测的风险。作者详细描述了实现自......
 
-github.com/ASkyeye/BrowserSnatch
+### 将payload嵌入 PNG 文件中
 
-......
+通过将有效负载拆分到多个 IDAT 部分，将有效负载嵌入到 PNG 文件中。每个部分都使用自己的 16 字节密钥和 RC4 加密算法单独加密。
 
-### APT41 DodgeBox 模块加载方式
+该存储库由两个实现组成：......
 
-DodgeBox使用傀儡模块加载payload，具体步骤如下（忽略了很多细节）：
+### 一款代码审计辅助插件
 
-• 检查payload的有效性
+SecurityInspector 是一个静态代码扫描插件，内置了常见的Java 代码Web漏洞sink 点，高危组件调用sink
+点，识别项目中可能存在的过滤器（如XSS过滤器、......
 
-• 在system32下查找代码段足够大的......
+### 一款局域网传输文件工具
 
-### LSASS Memory Dump
+LANDrop 是一个跨平台工具，您可以使用它方便地将照片、视频和其他类型的文件传输到同一本地网络上的其他设备。。
 
-这篇文章《Ghost in the PPL: Part 3 - LSASS Memory Dump》主要探讨了在 Windows 操作系统中如何利用
-LSASS（本地安全认证子系统服务）内存转储......
+特征
 
-### 「议题文档」高级恶意软件开发之RDI的进化
+跨平台：我们说到做到。iOS、Android、m......
 
-从RDI（Reflective Dll
-Injection）这项技术最初出现，发展到现在的恶意代码开发领域所使用的RDI，其一直在不断地进化并有非常多的改进。如今RDI作为一种关键技术，频繁应用......
+### 一款支持多种扫描的Burp插件
 
-### 通过SCM实现在Windows上free 445/tcp的技术
+插件地址：github.com/kN6jq/gatherBurp
 
-一个利用服务控制管理器 (SCM) 交互来解绑和重新绑定 Windows 上 445/tcp 端口的项目。它提供了 BOF 和 Python
-实现，旨在简化在 C2 操作中基于 SMB 的 NT......
+目前功能
 
-### 静默安装 Chrome 扩展以实现持久性
+fastjson扫描
 
-这篇文章介绍了如何在不通知用户的情况下安装 Chrome 扩展程序。主要内容如下:
+权限绕过扫描
 
-通常情况下,用户需要手动安装 Chrome 扩展程序,并在安装时进行确认。
+未授权检测扫描
 
-作者展示了......
+sq......
 
-### Cobalt Strike 4.10更新
+### CVE-2024-21413 - Microsoft Outlook 中的严重远程代码执行漏洞
 
-Cobalt Strike 4.10 现已发布，本次更新引入了 BeaconGate、Postex Kit 和 Sleepmask-VS 等新功能，同时对
-Sleepmask API 进行了全面......
+概述
 
-### PAM_EXEC 不用第三方应用和重启抓取ssh密码
+CVE-2024-21413 是影响 Microsoft Outlook 的严重远程代码执行 (RCE)
+漏洞。此零日漏洞也称为“MonikerLink”漏洞，允许攻击者在受害者的机器上执行......
 
-利用pam_exec.so来抓取密码，不用重启，和 strace 方法相比不会生成过大的文件，能自动清理自身不留痕迹，能远程发送。
+### 隐藏进程真实路径，进程带windows真签名
 
-原文链接：9bie.org/ind......
+项目地址：https://github.com/qigpig/Ghosting-BOF
 
-### FastJson全版本Docker漏洞环境
+### 针对加密货币的窃密样本详细分析
 
-FastJsonParty 是一个提供 FastJson 全版本 Docker 漏洞环境的项目，涵盖了 1.2.47、1.2.68 和 1.2.80
-等多个版本。项目主要包括 JNDI 注入、高......
+加密货币被盗的三个主要的原因之一就是被黑客钓鱼攻击
+
+文中对一个盗取WEB3加密货币的恶意软件的钓鱼样本进行了分析
+
+原文链接：ht......
+
+### 一个基于 tauri + rust + vue 调用接口的大麦网抢票软件
+
+项目链接：https://github.com/shiyutim/tickets
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

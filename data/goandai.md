@@ -14,9 +14,17 @@ Star），此框架去掉了一些集成的功能和界面，使得整个框架�
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[基于 Gin 封装的高效 Web 框架](https://xiaobot.net/p/goandai?refer=0b133df9-27dc-423b-8101-639049001c13)|新亮|175人|47篇|2024-09-17|
+|[基于 Gin 封装的高效 Web 框架](https://xiaobot.net/p/goandai?refer=0b133df9-27dc-423b-8101-639049001c13)|新亮|189人|48篇|2024-10-09|
 
 ## 最近更新
+### 6.10 用 Go 写了一个桌面程序，源码免费分享给大家
+
+用 Go 写了一个桌面程序：生成授权码的小工具，先看下效果。
+
+我已经安装到 macOS 上了。
+
+源码地址：jazr2......
+
 ### 6.9 mongo-driver 完整用法与示例代码
 
 1\. 安装 mongo-driver
@@ -315,82 +323,6 @@ _点我即可直接跳转到小册目录合集_](https://xiaobot.net/post/e9f7ef
 使用 defer 和 recover 函数来实现异常捕获与告警。defer 用于延迟函数的执行，recover 用于捕获 panic 异常并进行处理。
 
 框架已经集成，代......
-
-### 3.1 实现服务启动时可选的配置项
-
-使用 Options 设计模式实现，它可以让我们在服务启动时根据需要选择性地配置应用程序。
-
-可配置项，代码片段：
-
-    
-    
-    // ./internal/pkg/core/core.go
-    
-    type option struct {
-    	enablePProf      bool
-    	enableSwagger    bool
-    	enablePrometheus bool
-    	enableCors       bool
-    	alertNotify      proposal.AlertHandler
-    	recordHandler    proposal.RecordHandler
-    }
-    
-    // WithEnablePProf 启用 pprof
-    func WithEnablePProf() Option {
-    	return func(opt *option) {
-    		opt.enablePProf = true
-    	}
-    }
-    
-    // WithEnableSwagger 启用 swagger
-    func WithEnableSwagger() Option {
-    	return func(opt *option) {
-    		opt.enableSwagger = true
-    	}
-    }
-    
-    // WithEnablePrometheus 启用 prometheus
-    func WithEnablePrometheus(recordHandler proposal.RecordHandler) Option {
-    	return func(opt *option) {
-    		opt.enablePrometheus = true
-    		opt.recordHandler = recordHandler
-    	}
-    }
-    
-    // WithAlertNotify 设置告警通知
-    func WithAlertNotify(alertHandler proposal.AlertHandler) Option {
-    	return func(opt *option) {
-    		opt.alertNotify = alertHandler
-    	}
-    }
-    
-    // WithEnableCors 设置支持跨域
-    func WithEnableCors() Option {
-    	return func(opt *option) {
-    		opt.enableCors = true
-    	}
-    }
-
-服务启动，代码片段：
-
-    
-    
-    // ./internal/router/router.go
-    
-    mux, err := core.New(logger,
-    	core.WithEnableCors(),
-    	core.WithEnableSwagger(),
-    	core.WithEnablePProf(),
-    	core.WithAlertNotify(alert.NotifyHandler()),
-    	core.WithEnablePrometheus(metrics.RecordHandler()),
-    )
-
-通过使用 Options 设计模式，我们可以根据需要选择性地配置服务器参数，使得应用程序更加灵活和可扩展。
-
-* * *
-
-有启发，左下角点击“启发”告诉我呀，[
-_点我即可直接跳转到小册目录合集_](https://xiaobot.net/post/e9f7ef4c-81b1-4ffc-9053-bec55c3abb12)。
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

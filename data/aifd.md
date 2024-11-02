@@ -10,9 +10,23 @@ AI与ML和DL以及NLP之间是什么关系？\n💯 AIGC生态图景（AIGC Land
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AI通识课](https://xiaobot.net/p/aifd?refer=0b133df9-27dc-423b-8101-639049001c13)|王福强|17人|17篇|2024-08-09|
+|[AI通识课](https://xiaobot.net/p/aifd?refer=0b133df9-27dc-423b-8101-639049001c13)|王福强|21人|19篇|2024-10-15|
 
 ## 最近更新
+### 五大AI开发神器
+
+AI领域的变化日新月异，没法天天跟进，阶段性做个总结，希望对大家有帮助。
+
+GitHub Copilot
+
+最早面向研发人员的集成AI能力的开发助手，基于庞大的Github代码仓库这笔破天......
+
+### Glif is fun😉
+
+这阵子玩的最多的一个AIGC工具叫Glif: glif.app/
+
+如果你听过或者玩过 Dify、ComfyUI 这类工具，那么，Glif 也就不难理解了......
+
 ### Stable Diffusion的演化史
 
 大家应该都是到文字生成图片领域，最早是由 MidJourney 引发风潮的，这家公司11 个人创造了几个亿的月营收，可以算是轰动一时。
@@ -66,20 +80,6 @@ Native Sp......
 搜索类AI产品市场份额占比4%
 
 代表产品perplexity，闲名字太长的可以试试pplx......
-
-### 为什么说AI永远替代不了人？
-
-我们说AI永远替代不了人是说， 永远替代不了所有人。
-
-但实际上AI确实有可能替代一部分人的职能。
-
-我在《技术、商业与人II》里提供了一个插图，......
-
-### 人工幻觉是怎么回事？
-
-使用GPT模型的过程中，经常会出现一种情况，那就是模型会“胡言乱语”，这种情况一般称之为 AI hallucination， 也就是AI幻觉或者说人工幻觉。
-
-那为什么......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

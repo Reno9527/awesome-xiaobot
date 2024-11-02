@@ -12,9 +12,17 @@ toB行业方案》，拉进VIP AI交流群。
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AIGC从入门到精通](https://xiaobot.net/p/wucanhui00?refer=0b133df9-27dc-423b-8101-639049001c13)|吴灿辉宝哥|111人|75篇|2024-08-12|
+|[AIGC从入门到精通](https://xiaobot.net/p/wucanhui00?refer=0b133df9-27dc-423b-8101-639049001c13)|吴灿辉宝哥|112人|76篇|2024-10-25|
 
 ## 最近更新
+### 一个找词找句超好用的工具
+
+写文章或者写歌词经常要找好词好句，这个“深言达意”工具帮到你。
+
+www.shenyandayi.com/
+
+比如找同义词，“”形容非常厉害”，......
+
 ### AI绘画|Remix.ai
 
 1.使用地址Remix.ai，无需魔法。有2个功能。
@@ -90,16 +98,6 @@ llama3 有8B和70B，都可以本地部署。保护隐私，快速运行。
 采用Ollama+Open-webUI的界面，通用的方法可以部署其他开源模型。
 
 喂饭级教......
-
-### AI工具|免费制作AI电影短剧-白日梦
-
-完全免费，国内可用
-
-brmgo.com/
-
-详细说明，移步到
-
-uxzp8aiozj7.feishu.cn/docx/N1KbdD......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

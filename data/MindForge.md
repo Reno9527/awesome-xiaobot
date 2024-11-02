@@ -7,9 +7,24 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[曼福吉的分享](https://xiaobot.net/p/MindForge?refer=0b133df9-27dc-423b-8101-639049001c13)|MindForge|53人|55篇|2024-09-27|
+|[曼福吉的分享](https://xiaobot.net/p/MindForge?refer=0b133df9-27dc-423b-8101-639049001c13)|MindForge|56人|57篇|2024-10-25|
 
 ## 最近更新
+### @57 两种增长曲线
+
+Scott H. Young 曾经用一年时间完成了麻省理工学院计算机系的四年本科课程，还出了一本书，《如何高效学习：1 年完成 MIT 4年
+33门课程的整体性学习法 》，学习能力惊人。
+
+......
+
+### @56 破解 Exploration-expoitation 困境的 3 个策略
+
+01/ Exploration-exploitation 困境
+
+探索-利用权衡，是决策中的一个基本概念，在许多领域都会出现。它用于描述两种对立策略之间的平衡行为。
+
+利用（......
+
 ### @55 高手的信息管理方法
 
 万维钢是我很喜欢的得到专栏作者，听罗胖讲过一个和他相关的故事。
@@ -85,23 +100,6 @@ LLM 应用实践分享
 \- ...
 
 01/ 文章
-
-### @47 怎样做事才能事半功倍
-
-1/ 敏捷项目管理的建议
-
-《Scrum: The Art of Doing Twice the Work in Half the Time》的第一作者 Jeff
-Sutherland，是敏捷项目管......
-
-### @46 极简笔记法则
-
-我意识到「知识管理的效率陷阱」后，就不再沉迷于知识管理。
-
-专栏里知识管理的内容，写得也不多。
-
-我打造了一把破除“知识管理困境”的快刀。
-
-......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

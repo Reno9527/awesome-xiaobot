@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[经济学人精选词汇解析](https://xiaobot.net/p/englishsideline?refer=0b133df9-27dc-423b-8101-639049001c13)|应许|52人|109篇|2024-10-04|
+|[经济学人精选词汇解析](https://xiaobot.net/p/englishsideline?refer=0b133df9-27dc-423b-8101-639049001c13)|应许|54人|109篇|2024-10-04|
 
 ## 最近更新
 ### 从Rome到roam, ramble

@@ -6,11 +6,27 @@
 
 
 |名称|作者|读者数量|内容数量|更新时间|
-|---|---|---|---|---|---|
-|[直奔大师：大模型时代新程序员的速成指南](https://xiaobot.net/p/codequickstart?refer=0b133df9-27dc-423b-8101-639049001c13)|匿名|12人|0篇|2024-10-08|
+|---|---|---|---|---|
+|[直奔大师：大模型时代新程序员的速成指南](https://xiaobot.net/p/codequickstart?refer=0b133df9-27dc-423b-8101-639049001c13)|匿名|12人|2篇|2024-10-14|
 
 ## 最近更新
+### 直奔大师
 
+直奔大师
+
+### 1\. 开始之前
+
+内容概要
+
+我们的内容分类
+
+算法、工程、产品、市场
+
+每个模块是工作不是工种
+
+交叉学科越来越重要，交叉才能带来
+
+产品经理除了了解产品，还需......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

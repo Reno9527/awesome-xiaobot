@@ -20,10 +20,18 @@
 
 
 |名称|作者|读者数量|内容数量|更新时间|
-|---|---|---|---|---|---|
-|[ChatGPT精进指南](https://xiaobot.net/p/AIclass?refer=0b133df9-27dc-423b-8101-639049001c13)|Alchian花生|642人|64篇|2024-10-07|
+|---|---|---|---|---|
+|[ChatGPT精进指南](https://xiaobot.net/p/AIclass?refer=0b133df9-27dc-423b-8101-639049001c13)|Alchian花生|652人|65篇|2024-10-20|
 
 ## 最近更新
+### 【番外】调用OpenAI API，3分钟翻译完一本书
+
+专栏最近更新得很少，有两部分原因：
+
+一是AI的基本原理就是那些，尤其是Prompt技巧方面，在讲完之后我觉得需要额外补充的不多；
+
+二是最近Cursor 让我具备了编程写代......
+
 ### 5.15 ChatGPT Canvas教程：最佳AI写作工具
 
 在上个月的时候，我才做了期视频说：你该放弃ChatGPT了，Cursor才是真正的AI写作神器。没想到ChatGPT前几天的更新直接打我脸了。
@@ -75,60 +83,6 @@ OpenAI前几天发了个推特，表示正在和部分美国的GPTs开发者试�
 
 2月16日凌晨OpenAI发布了Sora，这是继去年3月GPT4的发布会AI界最重大的消息了，他让几个小时前发布100万上下文长度的Gemini PRO
 1.5版本的谷歌成了AI界......
-
-### 5.12 送你一个「更勤奋更聪明的GPT-4」
-
-### 更懒更笨的GPT-4
-
-最近半年，很多人应该都感受到了GPT-4变懒变笨的情况，尤其是Twitter上就有相当多的吐槽和推测。很多人在猜是不是由于人类任务的污染或者因为到了冬季，GPT和人一样开始变得懒散了。
-
-但我倒是觉得最可信的推测是随着GPT-4插件的增多（DALLE、Web browser、Code
-interpreter等）和OpenAI因为版权、算力问题的顾虑等，在System
-Instructions（系统指令词）里给GPT-4增加了太多太多的指令，这超1700个token的指令词污染了GPT-4的注意力。
-
-![](https://static.xiaobot.net/file/2024-02-07/138610/72557f1b02b8ed0437c41dd8ae55737d.png)
-
-想象一下，你可能只是想问「理查德费曼是谁」，这个问题只占据几个token，但是和你这个问题一道发给GPT-4的还有那1700个token的系统指令，过长的指令不必要的消耗了GPT-4的注意力，使得你很难获得很好的回答。
-
-### Sam Altman没解决问题
-
-实际上，OpenAI的CEO Sam
-Altman在2月4号的时候还特意出来表现他们注意到了这个问题，并且已经做了解决，但是评论区的用户从实际体感来说并不买账。
-
-![](https://static.xiaobot.net/file/2024-02-07/138610/3aa53b33e184b5e99a32e61c3b536df1.png)![](https://static.xiaobot.net/file/2024-02-07/138610/01c54ce7ede89741805eb3f5eb594905.png)
-
-### 我的解决方式
-
-既然OpenAI还没法解决这个问题，那就由我们自己来吧。我用了一个非常简单的策略给你做出了「更勤奋更聪明的GPT-4」，从下面这个示例你就可以看出这个GPT至少把GPT-4的回答效果提升了30%以上。
-
-#### 一个案例
-
-我问GPT-4在2024年要在YouTube做AI博主的话该怎么起号，他把问题简化成了怎么起一个好名字。而我的「更勤奋更聪明的GPT-4」则是帮助我从目标受众定位、内容创作、技术使用，一直讲到了品牌建设和增长策略。
-
-![](https://static.xiaobot.net/file/2024-02-07/138610/eab6f98a1ca65b13b6c1b86af6ae33ab.png)![](https://static.xiaobot.net/file/2024-02-07/138610/27036386f8967045cd0e7d6798d5fc46.png)
-
-#### [「更勤奋更聪明的GPT-4」](https://chat.openai.com/g/g-vpdGZagEo-geng-qin-fen-de-
-geng-cong-ming-de-gpt-4/)
-
-访问链接：<https://chat.openai.com/g/g-vpdGZagEo-geng-qin-fen-de-geng-cong-ming-de-
-gpt-4/>
-
-[或点击这里](https://chat.openai.com/g/g-vpdGZagEo-geng-qin-fen-de-geng-cong-ming-
-de-gpt-4/)
-
-![](https://static.xiaobot.net/file/2024-02-07/138610/1eb48d3efa0fa5c409de38be816cec19.png)
-
-如果我告诉你这个GPT是怎么做出来的，你可能会惊讶这也太简单了！是的，是很简单的解决方式，但是背后其实是对问题的解构，以及对ChatGPT运作模式的理解，希望对你有所启发，两个策略：
-
-1、既然是系统指令词中主要是插件增加带来的，那我们就把插件去掉，还原一个干净纯粹的文字GPT；
-
-2、既然OpenAI官方可以在提示词中限制回答长度，那我们也可以去要求更专业更丰富的回答，并且为了避免指令词过长导致的「注意力」污染问题，我把instrution写得足够的简短，只保留必要的提升效果的要求。
-
-> 你是所有领域的专家，与你对话的用户非常非常聪明，你要理解用户问题并一步步思考，提供你能所想象的最专业最丰富的回答。每个回答的长度都应该超过2000字。
-
-![](https://static.xiaobot.net/file/2024-02-07/138610/043143619cd58fb93af56ceaa741a0b3.png)
-
-这应该是龙年新年前的最后一篇文章了，祝你新年快乐，阖家欢乐🎉
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

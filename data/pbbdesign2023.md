@@ -8,9 +8,17 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[线框之外 – 连载中](https://xiaobot.net/p/pbbdesign2023?refer=0b133df9-27dc-423b-8101-639049001c13)|PBB|6人|22篇|2024-09-17|
+|[线框之外 – 连载中](https://xiaobot.net/p/pbbdesign2023?refer=0b133df9-27dc-423b-8101-639049001c13)|PBB|6人|23篇|2024-10-30|
 
 ## 最近更新
+### 阅读笔记 – 2024 年 9 月
+
+Sanding UI
+
+blog.jim-nielsen.com/2024/sanding-ui/
+
+It’s kind of a QA tactic in a sense......
+
 ### 阅读笔记 – 2024 年 8 月
 
 The Looking Glass: The Curse of Perfect
@@ -74,14 +82,6 @@ AI and Trust
 www.schneier.com/blog/archives/2023/12/ai-and-trust.html
 
 Interpersonal ......
-
-### 阅读笔记 – 2023 年 11 月
-
-Always Be Learning
-
-www.lukew.com/ff/entry.asp?2034
-
-Good judgement comes from experie......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

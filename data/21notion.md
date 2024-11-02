@@ -8,9 +8,15 @@ Notion 搭建一个第二大脑系统，可以满足你对效率工具的一切�
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Notion 搭建高能效率系统](https://xiaobot.net/p/21notion?refer=0b133df9-27dc-423b-8101-639049001c13)|二一|113人|43篇|2024-09-28|
+|[Notion 搭建高能效率系统](https://xiaobot.net/p/21notion?refer=0b133df9-27dc-423b-8101-639049001c13)|二一|141人|44篇|2024-10-27|
 
 ## 最近更新
+### [功能追踪 12] - Notion 离线模式真的来了！2024 产品发布会完整解析
+
+Notion 的缺点有很多，但「无法离线运行」必定是其中最大、最让人无法全身心投入使用的一个原因，但这种局面今后即将发生改变。
+
+2024 年 10 月 25 日凌晨 1......
+
 ### [功能追踪 11] - Notion 表单上线、AI 功能细节更新
 
 AI 功能更新
@@ -55,14 +61,14 @@ Notion 官方中文有望在......
 ### 课程目录
 
 在本次 2024 修订中，我制作了一份
-[课程目录数据库](https://leon21.notion.site/b5a8902130b64ed391daca4d3b231c39?v=ca4af74e9ec44329a88ba3bb07e8c033&pvs=4)
+[课程目录数据库](https://leon21.notion.site/5f5b6f17884b4b769a86143d2e5312d4?pvs=4)
 ，包含了本套课程的所有文章，每一篇文章都为你提炼出了「核心要点」、「关键建议」以及「结论」三大部分。
 
 阅读文章之前你可以先扫一眼，以更快判断这篇文章是否包含你需要学习的内容。
 
 ![](https://static.xiaobot.net/file/2024-07-29/71051/8eb03b25bee7de2da5dc4be61078a498.png)
 
-课程目录地址：[点我](https://www.notion.so/leon21/b5a8902130b64ed391daca4d3b231c39?v=ca4af74e9ec44329a88ba3bb07e8c033&pvs=4)
+课程目录地址：[点我](https://leon21.notion.site/5f5b6f17884b4b769a86143d2e5312d4?pvs=4)
 
 * * *
 
@@ -223,13 +229,6 @@ Home 视图功能上新
 数据库新增了 Button 字段
 
 S......
-
-### [功能追踪 03] ｜ Notion Calendar 详解
-
-本文首发时间：2024 年 1 月
-
-大家好，本月的功能追踪因为 Notion 的最新产品 Notion Calendar
-的发布而提前。所以本月接下来如果再无其他重大更新，则下一篇功......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>
