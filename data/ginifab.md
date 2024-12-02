@@ -9,7 +9,7 @@ Selling
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[外贸回盘大全](https://xiaobot.net/p/ginifab?refer=0b133df9-27dc-423b-8101-639049001c13)|台北David非主流|4人|44篇|2024-09-25|
+|[外贸回盘大全](https://xiaobot.net/p/ginifab?refer=0b133df9-27dc-423b-8101-639049001c13)|台北David非主流|1人|44篇|2024-09-25|
 
 ## 最近更新
 ### 回盘后 Follow

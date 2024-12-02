@@ -7,9 +7,22 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[安全RSS](https://xiaobot.net/p/hacker?refer=0b133df9-27dc-423b-8101-639049001c13)|bot|281人|58篇|2024-11-01|
+|[安全RSS](https://xiaobot.net/p/hacker?refer=0b133df9-27dc-423b-8101-639049001c13)|bot|282人|60篇|2024-11-27|
 
 ## 最近更新
+### ShadowHound，规避性好一些的域查询方式
+
+ShadowHound 是一个PowerShell 工具，旨在为 BloodHound 映射 Active Directory
+环境，而不会引入已知的恶意/外来二进制文件（如 SharpHoun......
+
+### 监控Beacon以获取 Windows 令牌并获得 Kerberos 持久性
+
+这篇文章讨论了如何监控 Cobalt Strike 的 Windows Token 和 Kerberos 持久性。以下是文章的主要内容总结：
+
+1\. 背景介绍
+
+Cobalt Strike......
+
 ### 剖析LLM RCE
 
 这篇文章探讨了大型语言模型（LLM）在集成过程中可能导致的远程代码执行（RCE）漏洞，特别是在 LoLLMs 项目中的实现。随着 LLM
@@ -63,18 +76,6 @@ CVE-2024-21413 是影响 Microsoft Outlook 的严重远程代码执行 (RCE)
 ### 隐藏进程真实路径，进程带windows真签名
 
 项目地址：https://github.com/qigpig/Ghosting-BOF
-
-### 针对加密货币的窃密样本详细分析
-
-加密货币被盗的三个主要的原因之一就是被黑客钓鱼攻击
-
-文中对一个盗取WEB3加密货币的恶意软件的钓鱼样本进行了分析
-
-原文链接：ht......
-
-### 一个基于 tauri + rust + vue 调用接口的大麦网抢票软件
-
-项目链接：https://github.com/shiyutim/tickets
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

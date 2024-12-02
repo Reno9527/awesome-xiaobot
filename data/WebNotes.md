@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[小众闲谈](https://xiaobot.net/p/WebNotes?refer=0b133df9-27dc-423b-8101-639049001c13)|Fenng|14人|69篇|2024-09-02|
+|[小众闲谈](https://xiaobot.net/p/WebNotes?refer=0b133df9-27dc-423b-8101-639049001c13)|Fenng|12人|69篇|2024-09-02|
 
 ## 最近更新
 ### 略谈 Paul Graham 的最新文章：创始人模式

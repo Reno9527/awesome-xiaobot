@@ -25,9 +25,13 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[108个实战项目](https://xiaobot.net/p/shizhan?refer=0b133df9-27dc-423b-8101-639049001c13)|阿拉丁叁心笔记|1812人|173篇|2024-09-05|
+|[108个实战项目](https://xiaobot.net/p/shizhan?refer=0b133df9-27dc-423b-8101-639049001c13)|阿拉丁叁心笔记|1817人|174篇|2024-11-09|
 
 ## 最近更新
+### None
+
+学科全自动成交项目（小红书+公众号玩法）招募文案gie9itstydy.feishu.cn/docx/O8zkdiWKMorbq4xrzLocHc4ynde?from=from_......
+
 ### 公众号开放无限注册，属于个人矩阵的超级红利时代已经到来
 
 公众号开放无限注册可以说是一个机会，给大家说一下怎么利用风口赚钱
@@ -103,10 +107,6 @@ docs.q......
 下面是高客单价专栏。
 
 ......
-
-### 广告项目，依然稳
-
-项目7链接：https://xiaobot.net/post/ab5511a1-7d7d-40c3-998d-44db25ff354c
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

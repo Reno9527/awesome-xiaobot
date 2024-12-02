@@ -9,7 +9,7 @@ SEO、AI、独立站、工具站等任何出海赚美刀的方法，可以订阅
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Google SEO与出海商业实战SOP](https://xiaobot.net/p/googleseosop?refer=0b133df9-27dc-423b-8101-639049001c13)|码神|139人|17篇|2024-09-25|
+|[Google SEO与出海商业实战SOP](https://xiaobot.net/p/googleseosop?refer=0b133df9-27dc-423b-8101-639049001c13)|码神|179人|17篇|2024-09-25|
 
 ## 最近更新
 ### 【站内建设】除了SEO，还可以试试CRO 和PowerWords

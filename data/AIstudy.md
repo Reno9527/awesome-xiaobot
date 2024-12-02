@@ -7,9 +7,17 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[RPA实战入门到变现](https://xiaobot.net/p/AIstudy?refer=0b133df9-27dc-423b-8101-639049001c13)|小机学AI大模型|1031人|43篇|2024-07-21|
+|[RPA实战入门到变现](https://xiaobot.net/p/AIstudy?refer=0b133df9-27dc-423b-8101-639049001c13)|小机学AI大模型|1097人|44篇|2024-11-04|
 
 ## 最近更新
+### RPA + 比特浏览器 | 批量打开窗口(API版)
+
+一、背景说明
+
+做矩阵账号，经常会用到指纹浏览器，配置不同的IP打开多个窗口，达到环境隔离的效果。
+
+今天教大家使用API去批量打开窗口，而不需要默认人工操作，一个个的打开窗......
+
 ### RPA + 公众号 | 批量采集公众号文章数据
 
 一、背景说明
@@ -131,6 +139,10 @@
   * [RPA + 人力资源 | 批量自动生成录用通知书](https://xiaobot.net/post/635d0da5-8e91-455c-af32-cae54f9d2f81)
 
   * [RPA + 人力资源 | BOSS自动打招呼机器人](https://xiaobot.net/post/804f2670-2425-438b-9ba5-66ab21f26492)
+
+**九、RPA + 比特浏览器**
+
+  * [RPA + 比特浏览器 | 批量打开窗口(API版)](https://xiaobot.net/post/0ba217f6-d2a7-45c0-af25-2025d38a1ef6)
 
 **XPath使用 (捕获元素的进阶用法)**
 
@@ -285,16 +297,6 @@
 准备Word文件：
 
 一、文本读取<......
-
-### 快速入门 | Excel / WPS用法
-
-Excel自动化，在RPA应用场景也是很常见的一种操作，经常使用的有读取数据，写入数据两种操作。
-
-准备Excel模板：
-
-一、数据读取
-
-1、打开e......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

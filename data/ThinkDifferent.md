@@ -70,7 +70,7 @@ Instagram：@JasonLiu_nomad
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[6号旅居蒸馏器](https://xiaobot.net/p/ThinkDifferent?refer=0b133df9-27dc-423b-8101-639049001c13)|六|35人|54篇|2024-06-03|
+|[6号旅居蒸馏器](https://xiaobot.net/p/ThinkDifferent?refer=0b133df9-27dc-423b-8101-639049001c13)|六|25人|54篇|2024-06-03|
 
 ## 最近更新
 ### 触碰阿根廷的美02：茶艺和牛排

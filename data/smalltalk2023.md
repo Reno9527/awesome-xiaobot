@@ -15,9 +15,17 @@ SmallTalk · 第一季 → https://xiaobot.net/p/smalltalk
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[SmallTalk · 第二季（连载中）](https://xiaobot.net/p/smalltalk2023?refer=0b133df9-27dc-423b-8101-639049001c13)|Light|1236人|118篇|2024-09-07|
+|[SmallTalk · 第二季（连载中）](https://xiaobot.net/p/smalltalk2023?refer=0b133df9-27dc-423b-8101-639049001c13)|Light|1242人|119篇|2024-11-19|
 
 ## 最近更新
+### 向投资者学决策
+
+2022 年 7 月写过的一个文档，是一个提纲式的分享。有趣的是，大多数话题我在未来两年又都做过展开阐述（会在文内以链接形式附上）。
+
+一个跨越两年的漫长分享。
+
+<......
+
 ### 镜花水月又一村
 
 承接上篇：《是非成败转头空》
@@ -99,20 +107,6 @@ SmallTalk · 第一季 → https://xiaobot.net/p/smalltalk
 2023/11/12
 
 保持流动，捕捉可能......
-
-### 月有阴晴圆缺
-
-1
-
-两年前，有人在即刻社区掀起关于小报童的讨论，不少人参与。
-
-比较主流的观点是：
-
-小报童没有社群功能；
-
-小报童必须依赖作者个人持续输出；
-
-<......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

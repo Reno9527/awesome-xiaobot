@@ -18,9 +18,17 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AIGC探索之旅](https://xiaobot.net/p/aigc?refer=0b133df9-27dc-423b-8101-639049001c13)|P小二|155人|53篇|2024-07-09|
+|[AIGC探索之旅](https://xiaobot.net/p/aigc?refer=0b133df9-27dc-423b-8101-639049001c13)|P小二|155人|54篇|2024-11-28|
 
 ## 最近更新
+### AIGC Newsletter黑五改版上线，专栏同学免费赠送
+
+订阅此专栏的同学，可以评论留下邮件或者微信私信我邮件地址，我赠送一年的AIGC Newsletter 会员。
+
+🎯限时特惠：全年最佳订阅机会！
+
+亲爱的AIGC Newsle......
+
 ### 【创业杂谈】12. 记出海的一些东西
 
 最近在即刻上看到很多独立开发者在搞出海项目，都是以build in public为宗旨，但是就是做的AI导航之类的东西。
@@ -75,12 +83,6 @@ OpenAI的GPTs发布之后，我就去注册了一个域名并建立了一个idea
 
 最近OpenAI 开通了 GPT3.5 的微调接口，链接：openai.com/blog/gpt-3-5-turbo-fine-tuning-and-
 api-updates 很多......
-
-### None
-
-你好，我是P小二。我有七年NLP，三年AI架构经验，工作期间主要从事人格bot，虚拟偶像，智能客服等对话引擎的架构和算法落地。目前是创业者，已在AIGC方向创业三年。
-
-......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

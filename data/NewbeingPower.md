@@ -7,9 +7,14 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[恐龙力量](https://xiaobot.net/p/NewbeingPower?refer=0b133df9-27dc-423b-8101-639049001c13)|恐龙教练 Kexin x Solar|5人|38篇|2024-09-23|
+|[恐龙力量](https://xiaobot.net/p/NewbeingPower?refer=0b133df9-27dc-423b-8101-639049001c13)|恐龙教练 Kexin x Solar|5人|39篇|2024-11-27|
 
 ## 最近更新
+### kexin：不要让你的社交圈只有同类
+
+有在关注我和 Solar
+社交媒体的朋友，一定会知道我们正在运营一个主要由创业者构成的去中心化社群FellowClub。这里聚集了一群爱赚钱也爱生活的人，大家向往物质丰富且精神自由的人生，在理想......
+
 ### 不安灵魂收容所
 
 作者：Kexin
@@ -69,14 +74,6 @@
 最近两周每天都过得很开心，我很少感到无聊，而时时觉得感恩和幸运。
 
 我的社交变得极为简化，我可以几天都没有收到信息，也几天都不发出信息。起初......
-
-### 我需要的 Solar Club
-
-作者：Solar
-
-我这段时间一直有创办一个社群的想法。
-
-不过由于工厂在这段时间出货生产遇到的难题太多，抽出了很多精力去解决，一直还没有正式启动......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

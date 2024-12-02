@@ -9,7 +9,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[生命艺术家Zoey](https://xiaobot.net/p/Zoey_Neverland?refer=0b133df9-27dc-423b-8101-639049001c13)|Zoey来啦|1人|58篇|2023-12-01|
+|[生命艺术家Zoey](https://xiaobot.net/p/Zoey_Neverland?refer=0b133df9-27dc-423b-8101-639049001c13)|Zoey来啦|58人|942篇|2023-12-01|
 
 ## 最近更新
 ### 如何应对消极情绪？寻找积极情绪的来源

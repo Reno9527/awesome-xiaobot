@@ -9,9 +9,28 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Midjourney魔法师养成记](https://xiaobot.net/p/ZyrAI?refer=0b133df9-27dc-423b-8101-639049001c13)|赵玉润|67人|133篇|2024-09-11|
+|[Midjourney魔法师养成记](https://xiaobot.net/p/ZyrAI?refer=0b133df9-27dc-423b-8101-639049001c13)|赵玉润|53人|136篇|2024-11-29|
 
 ## 最近更新
+### 123.Midjourney官网|Upscale功能
+
+今天我们学习Midjourney上的Upscale功能，首先我们来看一下官方对Upscale的定义：
+
+“细致放大”（Upscale Subtle）选项会将图像大小翻倍，同时保留与原图......
+
+### 122.Midjourney官网出图操作界面教程
+
+Hi，小伙伴们，今天这期给大家带来Mj官网出图界面教程，助力你快速熟悉用户界面，开始你的AI绘画吧！
+
+如何进行文生图？如何进行垫图？如何查找图片？如何对选中的图片进行二次编辑和重绘？
+
+......
+
+### 121.Midjourney官网注册登录保姆级教程
+
+Midjourney 是一个 AI 绘画工具，我们可以通过文字描述，让 Midjourney
+帮我们生成高质量的图像。不少小伙伴已经在discard平台上使用过MidJourney，随着Mj官网......
+
 ### 使用Ideogram制作海报02
 
 上期我们推荐了Ideogram工具来制作海报，在上期的基础上，这篇我们来进一步探索海报上文字的可控性。还没有看上期教程的可以先跳转查看：xiaobot.net/post/75e8......
@@ -43,24 +62,6 @@
 ### 117.Midjourney|太空宇航员
 
 回想起人类的学习，从古时用“学富五车”来形容一个人学识渊博，到现代信息的密度和知识的传播手段空前发展，每个人手机收藏夹中的资料千车百车不止。而现在我们又身在AI颠覆世界的前夜，众所周知，AI大模......
-
-### 116.Midjourney|创建个性化的专属风格
-
-今天带着大家训练自己的专属风格，即MJ新功能参数：个性化的专属风格，参数指令：--p。
-
-同时，测试在专属风格下出图的效果，并且可以带走笔者的专属风格，助力你出图好看＋1。具体步骤如下......
-
-### 115.Midjourney| 薄纱艺术装置
-
-本期内容起源于英國藝術家Benjamin Shine的薄纱艺术装置，艺术家Benjamin
-Shine使用薄纱精心勾勒出人物肖像，如下图，让人看了不禁心生赞叹，请看：
-
-精美的薄纱艺术......
-
-### 114.Midjourney|边际平衡
-
-看到星友阿凯分享的一组“石头堆叠”图片很喜欢。原提示词：Increasing ability, stock image, positive
-impression --ar 3:4 --s 20......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

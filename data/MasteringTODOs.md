@@ -9,7 +9,7 @@ TODO APP ……\n\n其实这一切和 APP 的关系不大，只要掌握一定�
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[这一次彻底搞定 TODO 管理](https://xiaobot.net/p/MasteringTODOs?refer=0b133df9-27dc-423b-8101-639049001c13)|qcrao|36人|16篇|2024-01-04|
+|[这一次彻底搞定 TODO 管理](https://xiaobot.net/p/MasteringTODOs?refer=0b133df9-27dc-423b-8101-639049001c13)|qcrao|37人|16篇|2024-01-04|
 
 ## 最近更新
 ### 15 做事心态和玩票心态

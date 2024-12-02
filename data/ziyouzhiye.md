@@ -13,7 +13,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[自由职业0-100w指南大全](https://xiaobot.net/p/ziyouzhiye?refer=0b133df9-27dc-423b-8101-639049001c13)|赵立心|8965人|166篇|2024-03-14|
+|[自由职业0-100w指南大全](https://xiaobot.net/p/ziyouzhiye?refer=0b133df9-27dc-423b-8101-639049001c13)|赵立心|9112人|166篇|2024-03-14|
 
 ## 最近更新
 ### 0-月入五位数，他们的自由职业案例
@@ -103,15 +103,15 @@ _找到了自我价值，储备出了第二曲线_
 
 
 
-另外，也欢迎来立心的微信，围观更多自由职业故事。
+另外，也欢迎来立心的社群和星球，围观更多自由职业故事。
 
-**扫码加我微信还可领取自由职业资料一份！（备注小报童）**
+**扫码加微信，进交流群，领取自由职业资料一份！（备注小报童）**
 
-![](https://static.xiaobot.net/file/2024-04-19/16551/7a2b3fce09fa062b72b2995470a449a8.png)
+![](https://static.xiaobot.net/file/2024-11-04/16551/d1b651a02d10744345994884253a39b8.png)
 
 （**每天添加好友人数较多，未必及时通过，请务必同时添加星球，防止走丢。星球会分享立心的自由职业0-100w日常）**
 
-![](https://static.xiaobot.net/file/2024-04-19/16551/174963fb6fa0ee6cfdc34c0f30086a1f.png)
+![](https://static.xiaobot.net/file/2024-11-04/16551/432767786e1f06ac03020d95a1eaa13c.png)
 
 点击链接即可加入：<https://t.zsxq.com/177bIwTk5>
 
@@ -207,13 +207,13 @@ _找到了自我价值，储备出了第二曲线_
 
 [自由职业2年，我的5个崩溃瞬间](https://mp.weixin.qq.com/s?__biz=MzU2OTc2MTQ3NA==&mid=2247493355&idx=1&sn=039c721d3a7dd9d60c17608f0e29d318&chksm=fcfb6d46cb8ce4502d7a1445c48ad3f66e45fc058509b3250f6e65f9c4c1be58f8a58c998072&scene=21#wechat_redirect)
 
-**扫码加我微信领取自由职业资料一份！（备注小报童）**
+**扫码加微信，进交流群，领取自由职业资料一份！（备注小报童）**
 
-![](https://static.xiaobot.net/file/2024-04-19/16551/4bf719c5affdc090fb802bcada4ddc5f.png)
+![](https://static.xiaobot.net/file/2024-11-04/16551/d582903ca2e594392c79b92ee77498f4.png)
 
 （**每天添加好友人数较多，未必及时通过，请务必同时添加星球，防止走丢。星球会分享立心的自由职业0-100w日常）**
 
-![](https://static.xiaobot.net/file/2024-04-19/16551/d8207e0bb93645071e3d9cb19de618e1.png)
+![](https://static.xiaobot.net/file/2024-11-04/16551/34586d977dda23cf8733a58c1474993a.jpeg)
 
 点击链接即可加入：<https://t.zsxq.com/177bIwTk5>
 

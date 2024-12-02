@@ -12,7 +12,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[SD+Midjourney绘画百科](https://xiaobot.net/p/stablediffusion?refer=0b133df9-27dc-423b-8101-639049001c13)|Draco|40人|156篇|2024-05-25|
+|[SD+Midjourney绘画百科](https://xiaobot.net/p/stablediffusion?refer=0b133df9-27dc-423b-8101-639049001c13)|Draco|41人|156篇|2024-05-25|
 
 ## 最近更新
 ### SDXL下推荐的Embeddings

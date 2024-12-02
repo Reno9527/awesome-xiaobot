@@ -8,9 +8,15 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[线框之外 – 连载中](https://xiaobot.net/p/pbbdesign2023?refer=0b133df9-27dc-423b-8101-639049001c13)|PBB|6人|23篇|2024-10-30|
+|[线框之外 – 连载中](https://xiaobot.net/p/pbbdesign2023?refer=0b133df9-27dc-423b-8101-639049001c13)|PBB|6人|24篇|2024-11-30|
 
 ## 最近更新
+### 阅读笔记 – 2024 年 10 月
+
+Automating Processes with Software is HARD
+
+hardcoresoftware.learningbyshipping.com/p/222-a......
+
 ### 阅读笔记 – 2024 年 9 月
 
 Sanding UI
@@ -74,14 +80,6 @@ Product Vision vs. Mission
 www.svpg.com/product-vision-faq/
 
 When done well, the prod......
-
-### 阅读笔记 – 2023 年 12 月
-
-AI and Trust
-
-www.schneier.com/blog/archives/2023/12/ai-and-trust.html
-
-Interpersonal ......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

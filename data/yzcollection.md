@@ -8,7 +8,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[产品拾记](https://xiaobot.net/p/yzcollection?refer=0b133df9-27dc-423b-8101-639049001c13)|YZ|10人|20篇|2023-12-05|
+|[产品拾记](https://xiaobot.net/p/yzcollection?refer=0b133df9-27dc-423b-8101-639049001c13)|YZ|11人|20篇|2023-12-05|
 
 ## 最近更新
 ### AI绘图、AI视频、AI音频Top1产品Midjourney、Runway、Eleven Labs三者关键功能分析

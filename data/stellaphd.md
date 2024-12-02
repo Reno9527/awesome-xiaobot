@@ -13,7 +13,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Stella英语学习终极指南](https://xiaobot.net/p/stellaphd?refer=0b133df9-27dc-423b-8101-639049001c13)|白露为霜Stella|531人|28篇|2024-09-22|
+|[Stella英语学习终极指南](https://xiaobot.net/p/stellaphd?refer=0b133df9-27dc-423b-8101-639049001c13)|白露为霜Stella|539人|28篇|2024-09-22|
 
 ## 最近更新
 ### 加餐01: chatGPT是最有用的英语学习工具

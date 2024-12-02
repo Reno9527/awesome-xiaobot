@@ -17,18 +17,160 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[100个AI与副业赚钱案例](https://xiaobot.net/p/lqxsd?refer=0b133df9-27dc-423b-8101-639049001c13)|806-老秦|591人|50篇|2024-09-13|
+|[100个AI与副业赚钱案例](https://xiaobot.net/p/lqxsd?refer=0b133df9-27dc-423b-8101-639049001c13)|806-老秦|597人|51篇|2024-11-21|
 
 ## 最近更新
+### CPS | 小报童
+
+大家好，我是老秦， 今天在朋友圈看到很多人在分销小报童 。
+
+是啊， 小报童分销是非常好出单了。
+
+也可以作为我们刚开始做副业的一个获取收益的方向。
+
+下面老秦说一......
+
 ### CPS | 网盘拉新（详解）
 
-一、前言
+#### 一、前言
 
 现在有很多低成本副业小项目， 但有的需要门槛， 也不适合新人。
 
 今天老秦推荐一个适合新人做的项目【网盘拉新】
 
-提起拉新， 大家并不陌生， 几年前的快......
+提起拉新， 大家并不陌生， 几年前的快手、抖音平台都搞拉新， 邀请一个新人给xxx元， 网盘拉新也类似。
+
+关于网盘拉新平台有不少， 像阿里、UC、百度、夸克网盘等， 不同的平台邀新奖励也不一样， 老秦主推荐做【夸克网盘拉新】
+
+#### 二、简介
+
+夸克网盘拉新是一种推广活动，通过邀请新用户注册和使用夸克网盘来获得奖励。通过这种活动，用户可以通过自己的推广链接邀请新用户，一旦新用户通过该链接注册并使用夸克网盘，推广者就可以获得一定的奖励或佣金。
+
+#### 三、网盘注册
+
+一）点击下方链接，保存资料，实现注册
+
+<https://pan.quark.cn/s/b8d404097e3a>
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/b6a89ad3e238a5799dfd40f078a94bcb.png)
+
+现在新用户注册并保存资料成功， 可直接领 1TB的空间!
+
+**二）输入号码信息**
+
+输入正确的号码信息， 最好是新用户哈
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/172abb031591f495a0c95afaf0a56b21.png)
+
+**三）保存资料**
+
+点击 「登录」按钮，即可保存， 如下图
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/a1d080debefe085a7b7a85b40281b068.png)
+
+可以下载个「夸克」App或者电脑下载客户端查看已经保存的资料
+
+到此， 你已经顺利完成夸克的注册啦
+
+#### 四、网盘推广码权益开通
+
+想要参与夸克网盘拉新活动，可以通过官方授权平台申请推广码权限，老秦在个人和授权平台都申请过， 建议大家在「任推邦」APP上申请。
+
+**一）注册**
+
+点击下方链接，注册「任推邦」账号，填写账号信息
+
+<https://dt.bd.cn/#/pages/login/register?invite_code=869469>
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/d5868a8f05995b5e3cc65fff06b0bb19.png)
+
+完成注册后，下载「任推邦」APP，登录你的账号。
+
+**二）申请推广码**
+
+1.打开「任推邦」主页，选择「夸克网盘」
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/26d2730c4e638d3dfd411bf665a38c16.png)
+
+2.选择「申请推广码」
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/7bd9af3fe321f547f400cf686ce60206.png)
+
+3.填写「申请推广码信息」
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/18de1af24ac99b1f9ba84686cacbe6e9.png)
+
+这里需要填写「夸克UID」和「夸克ID绑定1002成功截图」以及其它
+
+这很重要，** 必须如实填写，填写不实影响审核与结算。**下面我具体说一下如何填写
+
+**1）夸克UID与夸克ID绑定1002截图**
+
+第一步：绑定服务商！用夸克/浏览器打开下方链接获取夸克UID/ID，并绑定服务商任推邦（1002）截图备用；
+
+[https://b.quark.cn/apps/c3qMkYerj/routes/J1bMu5GVq?uc_param_str=dsdnfrpfbivesscpgimibtbmnijblauputogpintnwktprchmt&uc_biz_str=S%3Acustom%7CC%3Atitlebar_hover_2](https://b.quark.cn/apps/c3qMkYerj/routes/J1bMu5GVq?uc_param_str=dsdnfrpfbivesscpgimibtbmnijblauputogpintnwktprchmt&uc_biz_str=S%3Acustom%7CC%3Atitlebar_hover_2)
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/82ab569c568d4c734115718689edcc79.png)![](https://static.xiaobot.net/file/2024-09-13/10954/190ae114423f48dd0c72495abc3f784b.png)
+
+复制夸克UID号码，填写到申请信息表中
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/64ddcfc996a7a986529526f85f723681.png)
+
+点击绑定， 后会提示「绑定成功」，如下图：
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/93be01330917e1dec48b83ac5e2762d8.png)
+
+把截图图片填写在申请信息表中
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/63217479c9b77891d855cb527356c982.png)
+
+**2）其它**
+
+这里面的「擅长领域」，「预估日单量」，「分享方式」，「分享方式说明」都是**任意填写** 。
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/1645d60bd76397a40a49674473cc3e3d.png)
+
+另外「夸克分享链接」可去你的夸克网盘去分享你的某个资源，步骤如下：
+
+打开夸克网盘app--->长按资源（你上传或保存的）--->分享--->公开链接--->粘贴后， 仅复制链接即可
+
+**4.申请**
+
+填写完信息后， 确认无误， 点击「立即申请」
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/d412aa2b8c41972580a459ca7be5643a.png)
+
+等待审核，审核通过即可推广。
+
+#### 五、推广码审核通过，如何推广
+
+待审核通过后，可以分享资料了
+
+打开夸克网盘，找到你要分享的资料，如下图，选中资料点击分享按钮
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/5b09ef62b687163f9aa8332c271d99ae.png)
+
+选择「永久有效」，创建分享
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/a22c6786f1dbd52f177f2d8e494b2061.png)
+
+选择「复制链接」
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/2274f1e9c73498ec210dccce10ead6b4.png)
+
+把链接分享出去，用户通过你的链接保存或转存，你都会有收益，收益多少随着活动的变化而变动哈。
+
+#### 六、注意
+
+  1. 拉新价格每个时期不同， 具体看「任推邦」APP，如下。 收益类型包括拉新、转存、会员分成等。
+
+![](https://static.xiaobot.net/file/2024-09-13/10954/a79b32abfe626ea6378140e1a56fc4ae.png)
+
+  2. 大家存资料注意不要发违规的内容， 不要发侵权的内容
+
+  3. 可以把自己的原创资料上传到夸克， 生成链接存在你的资料包里，作为「福利」送给用户，比较好。
+
+以上有启发左下角告诉我呀，[点我即可直接跳转小册专栏合集。](https://xiaobot.net/post/0ab89950-dd74-42ca-8cde-5cf9a8cc11ee)
 
 ### AI | 制作双面人生爆款视频
 
@@ -100,18 +242,6 @@ Suno 官网：app.suno.ai/
 什么是AI+ppt项目？
 
 AI+ppt项目就是通过利用AI技术生成PPT，再上传到相应的平台......
-
-### AI | 制作双面人生爆款视频
-
-作者：老秦合伙人 程序禅踪
-
-最近小红书有类大火的视频，如下
-
-制作这类内容我们用到
-
-付费：Chatgpt4的DALL.E(也可以用MJ)，
-
-......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

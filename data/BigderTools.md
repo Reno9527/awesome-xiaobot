@@ -10,7 +10,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[工具箱](https://xiaobot.net/p/BigderTools?refer=0b133df9-27dc-423b-8101-639049001c13)|Bigder|23人|135篇|2024-05-02|
+|[工具箱](https://xiaobot.net/p/BigderTools?refer=0b133df9-27dc-423b-8101-639049001c13)|Bigder|24人|135篇|2024-05-02|
 
 ## 最近更新
 ### 140：秘塔AI搜索

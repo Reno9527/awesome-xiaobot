@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[薪资翻倍术：offer得这么谈！](https://xiaobot.net/p/corryoffer?refer=0b133df9-27dc-423b-8101-639049001c13)|Corry就是1号|6人|16篇|2024-07-20|
+|[薪资翻倍术：offer得这么谈！](https://xiaobot.net/p/corryoffer?refer=0b133df9-27dc-423b-8101-639049001c13)|Corry就是1号|8人|16篇|2024-07-20|
 
 ## 最近更新
 ### 15\. Offer 决策

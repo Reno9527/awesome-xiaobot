@@ -17,7 +17,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Transformer 最后一公里](https://xiaobot.net/p/Transformer?refer=0b133df9-27dc-423b-8101-639049001c13)|董董灿|145人|64篇|2024-08-03|
+|[Transformer 最后一公里](https://xiaobot.net/p/Transformer?refer=0b133df9-27dc-423b-8101-639049001c13)|董董灿|154人|64篇|2024-08-03|
 
 ## 最近更新
 ### Qwen2 的模型结构和细节

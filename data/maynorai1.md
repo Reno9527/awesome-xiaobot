@@ -10,9 +10,31 @@ MaynorAI 回复AI资料 赠送500G AI课程资料。\n\n原价 199，现价 9.9 
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Ai赚钱手册](https://xiaobot.net/p/maynorai1?refer=0b133df9-27dc-423b-8101-639049001c13)|AIMaynor|10人|27篇|2024-10-14|
+|[Ai赚钱手册](https://xiaobot.net/p/maynorai1?refer=0b133df9-27dc-423b-8101-639049001c13)|AIMaynor|17人|30篇|2024-11-20|
 
 ## 最近更新
+### 如何用AI辅助快速写论文（完结）
+
+通过网盘分享的文件：王树义·如何用AI辅助快速写论文（完结）
+
+链接: pan.baidu.com/s/10sDMuj42aNfeW0GKfQ-nOQ?pwd=8888......
+
+### 如何用AI辅助高效写公文16讲（完结）
+
+通过网盘分享的文件：
+
+链接: pan.baidu.com/s/1EYO1rdwX46xeAFZZcMG18w?pwd=8888 提取码: ......
+
+### MaynorAIGC知识库
+
+"AIGC知识库"的目录列表，包含了以下9个主要板块：
+
+1\. AIGC新手入门教程
+
+2\. 小红书热门资料汇总
+
+3\. AI实用资料合集（Kimi、文心...）<......
+
 ### 俗人六哥，打造商业闭环矩阵，帮电商实体降70%成本，12款Ai联合深度实战
 
 链接：pan.baidu.com/s/1cLhlRMUsm740zMTOohvojQ?pwd=8hzn
@@ -47,11 +69,7 @@ MaynorAI 回复AI资料 赠送500G AI课程资料。\n\n原价 199，现价 9.9 
 
 ### 7---AI运营，变现教程
 
-链接：pan.baidu.com/s/13uujlXiFCb6fGo0BLa8sVA?pwd=isnb
-
-提取码：isnb
-
-\--来自百度网盘超级会员V5......
+通过网盘分享的文件：AIGC商业变现训练营等16个文件
 
 ### 6---AI影视，动画，数字人教程
 
@@ -66,30 +84,6 @@ MaynorAI 回复AI资料 赠送500G AI课程资料。\n\n原价 199，现价 9.9 
 链接：pan.baidu.com/s/18WwQPYLmrrAzUBtxkWHi2Q?pwd=3pt4
 
 提取码：3pt4
-
-\--来自百度网盘超级会员V5......
-
-### 4---AI大模型训练教程
-
-链接：pan.baidu.com/s/1xgXK7qGbM2ncuhkJkXptRw?pwd=022d
-
-提取码：022d
-
-\--来自百度网盘超级会员V5......
-
-### 3---AI设计作教程
-
-链接：pan.baidu.com/s/1PjzHLInyN1XSQfajVpkNsQ?pwd=9mvw
-
-提取码：9mvw
-
-\--来自百度网盘超级会员V5......
-
-### 2---AI绘图教程
-
-链接：pan.baidu.com/s/1ozXh56hJYZYsm9qHx0guVg?pwd=713o
-
-提取码：713o
 
 \--来自百度网盘超级会员V5......
 

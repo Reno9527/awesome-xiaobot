@@ -7,9 +7,37 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AI搞钱周刊](https://xiaobot.net/p/dse?refer=0b133df9-27dc-423b-8101-639049001c13)|殷建松Jason|50人|91篇|2024-10-31|
+|[AI搞钱周刊](https://xiaobot.net/p/dse?refer=0b133df9-27dc-423b-8101-639049001c13)|殷建松Jason|41人|95篇|2024-11-27|
 
 ## 最近更新
+### 虚拟试穿与3D模型生成
+
+卷首语
+
+在数字时代，技术的进步不断重塑我们的生活和工作方式。本期介绍两项变革性技术：OOTDiffusion 虚拟试穿工具和 Edify 3D
+生成模型。不仅代表了人工智能和计算机视觉的最新发展，......
+
+### AI 眼镜与开源大语言模型
+
+卷首语
+
+本期介绍两款革命性科技产品：Rokid Glasses和 Mistral AI。Rokid Glasses 是一款 AI+AR
+眼镜，以其时尚设计和强大功能提升日常效率。Mistral A......
+
+### AI 智库导航与 AI 教育工具
+
+卷首语
+
+AI 智库导航和谷歌的 Learn About 是两个引领 AI 领域的创新平台。AI
+智库导航提供了一个综合性的平台，汇集了最新的人工智能信息和实用工具推荐，旨在为用户提供及时获取 AI......
+
+### 模拟科学家团队与 AI 视频摄像机控制
+
+卷首语
+
+在这个科技飞速发展的时代，创新已成为推动科学进步的核心动力。VirSci（Virtual Scientists）和Runway Gen-3 Alpha
+Turbo正是这一精神的杰出代表。V......
+
 ### 统一图像生成与众擎机器人
 
 卷首语
@@ -49,34 +77,6 @@ O1项目的推出，正是应......
 
 阶跃星辰的Step-1X和千寻智能的Spirit
 AI代表了人工智能领域的创新成果。Step-1X利用深度学习技术，通过文本描述生成图像，优化了中国元素的表现。Spirit AI则专注于开......
-
-### GameNgen 与 Cursor
-
-卷首语
-
-本期主要介绍两个项目：来自谷歌的 GameNgen 和来自 Anysphere 的 Cursor。GameNgen
-是一个完全由神经模型驱动的游戏引擎，其输出达到了让人无法相信是 AI 生......
-
-### SkyReels 和 腾讯多模态理解大模型
-
-卷首语
-
-本期介绍两个国内的AI平台，SkyReels 与腾讯混元多模态理解大模型成为了推动内容创作与信息理解的前沿力量。SkyReels，通过全球首个集成视频与
-3D 大模型的 AI 短剧平台，让......
-
-### Melodio 与 Clapper
-
-卷首语
-
-本期我们聚焦 Melodio 和 Clapper。Melodio 是全球首个个性化 AI 流媒体音乐平台，基于 Skymusic 2.0
-大模型实时生成符合用户需求的定制音乐，满足音乐爱好......
-
-### Hunyuan-Vision 与 Gemini 1.5 Pro
-
-卷首语
-
-在这个智能技术飞速发展的时代，我们正站在人工智能革命的前沿。本周，我们有幸见证了两项令人瞩目的技术突破：腾讯的Hunyuan-
-Vision和Google的Gemini 1.5 Pro。Hu......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

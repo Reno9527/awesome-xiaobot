@@ -18,7 +18,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[ProductHunt 冲榜指南](https://xiaobot.net/p/hiproducthunt?refer=0b133df9-27dc-423b-8101-639049001c13)|张小吉要多思考 0.3.6|28人|17篇|2024-01-13|
+|[ProductHunt 冲榜指南](https://xiaobot.net/p/hiproducthunt?refer=0b133df9-27dc-423b-8101-639049001c13)|张小吉要多思考 0.3.6|29人|17篇|2024-01-13|
 
 ## 最近更新
 ### 启动提效｜优化工作流的宝藏工具

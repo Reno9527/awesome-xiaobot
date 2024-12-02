@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Product Daily](https://xiaobot.net/p/productdaily?refer=0b133df9-27dc-423b-8101-639049001c13)|刘英滕|3人|609篇|2024-07-25|
+|[Product Daily](https://xiaobot.net/p/productdaily?refer=0b133df9-27dc-423b-8101-639049001c13)|刘英滕|1人|609篇|2024-07-25|
 
 ## 最近更新
 ### Instagram 的新功能“便签”

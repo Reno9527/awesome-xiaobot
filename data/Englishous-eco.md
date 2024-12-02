@@ -7,77 +7,78 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[英语日食记外刊精读](https://xiaobot.net/p/Englishous-eco?refer=0b133df9-27dc-423b-8101-639049001c13)|7 sir|23人|189篇|2024-11-01|
+|[英语日食记外刊精读](https://xiaobot.net/p/Englishous-eco?refer=0b133df9-27dc-423b-8101-639049001c13)|7 sir|19人|222篇|2024-11-30|
 
 ## 最近更新
-### 【经济学人精读】Slow iPhone sales could sour Apple ｜ iPhone销售疲软或成苹果发展隐忧
+### 【经济学人精读】The rise of social commerce 社交电商的崛起
 
 原文
 
-Apple will try to make its latest earnings report on Thursday all about the
-promise of a......
+A festive shopping frenzy goes into top gear on Black Friday. Retailers will
+offer steep......
 
-### 【经济学人精读】America’s pre-election economic bounce 美国大选前的经济反弹
-
-原文
-
-An oft-cited quip about American elections is that “it’s the economy, stupid”.
-If that w......
-
-### 【经济学人精读】Too many people want to be social-media influencers 太多人想成为社交媒体网红
+### 【经济学人精读】Ursula von der Leyen’s new team 冯德莱恩的新团队
 
 原文
 
-Influencers are now deeply integrated into the fabric of modern consumer
-culture, with c......
+On Wednesday, barring a surprise, the European Parliament will endorse Ursula
+von der Le......
 
-### 【经济学人精读】The $60bn big-tech earnings question 科技巨头600亿美元的盈利问题
-
-原文
-
-Alphabet, Google’s parent company, reports quarterly earnings on Tuesday,
-kicking off th......
-
-### 【经济学人精读】How bad are video games for your grades? 电子游戏对成绩有多大影响？
-
-原文
-
-In Teyvat, a magical realm, you’re separated from your twin by a god and
-embark on a jou......
-
-### 【拓展阅读】Elon’s $1m voter 埃隆的 100 万美元选民
+### 【拓展阅读】The very real constraints on artificial intelligence in 2025 ｜2025
+年人工智能面临的现实制约因素
 
 摘要
 
-本文探讨了埃隆·马斯克在2024年美国总统大选中推出的一项具有争议性的计划。在选情胶着之际，马斯克提出向支持宪法第一、第二修正案的选民提供赢取百万美元奖金的机会，此举被认为是为......
+本文围绕英伟达新一代Blackwell芯片的推出，分析了AI基础设施发展面临的多重挑战。随着生成式AI的快速发展，数据中心的规模和能源需求都在激增，预计到2026年全球数据中心用电量将达到日......
 
-### 【拓展阅读】Memory chips could be the next bottleneck for AI 内存芯片可能成为人工智能的下一个瓶颈
+### 【经济学人精读】America’s sticky housing market 美国停滞的房地产市场
+
+原文
+
+The Federal Reserve’s efforts to cool inflation remain hampered, in part, by
+the stagnan......
+
+### 【拓展阅读】Nvidia’s boss dismisses fears that AI has hit a wall
+｜英伟达老板驳斥人工智能碰壁的担忧
 
 摘要
 
-本文揭示了半导体行业中AI芯片与其他芯片的市场分化现象。在AI技术快速发展的背景下，高带宽存储（HBM）芯片因其在AI模型运行中的关键作用而备受关注。这种芯片通过集成存储和逻辑功能，大大提高......
+本文围绕AI规模定律的争议展开讨论。随着OpenAI老板奥特曼关于"没有墙"的推文引发关注，AI行业对规模定律是否遇到瓶颈产生了激烈争论。作为GPU主要供应商的英伟达，其业绩持续增长，CEO......
 
-### 【经济学人精读】It’s not just obesity. Drugs like Ozempic will change the world
-不仅仅是肥胖。司美格鲁肽等药物将改变世界
-
-原文
-
-The arrival of GLP-1 drugs, first used for diabetes, is revolutionizing
-medicine, tackli......
-
-### 【经济学人精读】Trump woos Nevada 特朗普争取内华达州
+### 【经济学人精读】Sputter, sputter, Zoom? ｜ Zoom还在继续突突前行吗？
 
 原文
 
-Political pundits in Nevada like to remind those in Washington, DC how much
-the Silver S......
+Zoom was a star performer among tech stocks during the pandemic. The video-
+conferencing firm’s ......
 
-### 【经济学人精读】All eyes on Tesla 特斯拉备受关注
+### 【拓展阅读】Computers unleashed economic growth. Will artificial intelligence
+｜计算机带来了经济增长。人工智能是否会 ？
+
+摘要
+
+文章通过对比计算机时代和当前AI时代的发展，分析了AI技术采用进展缓慢的原因。与90年代计算机革命的三个关键推动因素（IT投资增加、价格下降、业务模式整合）相比，当前AI领域的投资增长缓慢，......
+
+### 【经济学人精读】Have you heard the one about the tickled monkey? 你听说过那个被挠痒的猴子的故事吗？
 
 原文
 
-Third-quarter results, due on Wednesday, might deliver a glimmer of good news
-for Tesla.......
+Many animals, including squirrel monkeys, macaques and chimpanzees, laugh.
+However, they......
+
+### 【拓展阅读】What would Elon Musk do in government? ｜ 埃隆-马斯克在政府中会做什么？
+
+摘要
+
+文章分析了马斯克与特朗普之间的新型政商关系及其影响。作为特朗普最重要的支持者，马斯克可能从中获得巨大商业利益，包括特斯拉的竞争优势、SpaceX的监管便利以及社交媒体平台X的新......
+
+### 【经济学人精读】A first inter-governmental summit on restraining AI ｜
+限制人工智能的首次政府间峰会
+
+原文
+
+On Wednesday in San Francisco the International Network of AI Safety
+Institutes starts i......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

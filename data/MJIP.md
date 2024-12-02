@@ -16,9 +16,14 @@ Prompt 模板 70多个。成功售卖 Prompt 模板、实体画、定制画、�
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[用 Midjourney 做成可售卖商品](https://xiaobot.net/p/MJIP?refer=0b133df9-27dc-423b-8101-639049001c13)|imluffy|4人|11篇|2024-07-18|
+|[用 Midjourney 做成可售卖商品](https://xiaobot.net/p/MJIP?refer=0b133df9-27dc-423b-8101-639049001c13)|imluffy|4人|12篇|2024-12-01|
 
 ## 最近更新
+### Prompt 模板复刻 90 万粉Tiktok博主短视频
+
+只需要一个 Midjourney Prompt 模板，就能做出这个拥有 911.7 k 粉 TikToker Punkey Doodles
+的短视频。下面把我最新研究的 AI 短视频制作方法分享......
+
 ### 如何用 Midjourney 快速学习新配色 Prompt？
 
 最近一直在复刻 --sref random 生成的风格，因为这类风格既好看又有稳定的配色方案。于是在这里和大家分享一下如何学习 Midjourney
@@ -81,11 +86,6 @@ Midjourney 画这类无法直接生成的绘画。
 当一个突发事件发生，你有没有想过用 Midjourney 来做配图？
 
 你可能会遇到这样的状况：1 、事件热度快过去了，Midjourney 还在生成图片中；2 、......
-
-### 如何用 Midjourney 做成可售卖 Prompt 模板并上架 Promptbase？
-
-前几天做的「城市商务 PPT 背景」Prompt 模板又有老外下单了。4.99 美元售价虽然不多，但正反馈满满。至少我持续验证了一件事情：做出有价值的
-Prompt 模板是有人买单的，复利效......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

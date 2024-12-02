@@ -11,9 +11,30 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[小红书绘画万粉计划](https://xiaobot.net/p/mj?refer=0b133df9-27dc-423b-8101-639049001c13)|阿杰|810人|59篇|2024-06-14|
+|[小红书绘画万粉计划](https://xiaobot.net/p/mj?refer=0b133df9-27dc-423b-8101-639049001c13)|阿杰|811人|62篇|2024-12-01|
 
 ## 最近更新
+### 即梦：轻快易上手
+
+即梦和可灵是我们国内目前来说最好用的两款 AI 视频生成工具。这一节咱们简单介绍一下即梦。
+
+网址：jimeng.jianying.com/ai-tool/home
+
+### AI 视频工具有哪些
+
+就目前的情况来看，AI 视频无论是流量层级还是商业价值层级，都是要比 AI 绘画要高的，因此推荐大家也学习一下 AI 视频。且咱们学过 AI 绘画再学 AI
+视频其实是有优势的。
+
+<......
+
+### 加餐7 - 火爆的美女号
+
+最近小红书上出现很多美女类的账号，点赞高，涨粉也是飞快
+
+粉丝涨起来之后就可以接广告进行变现了
+
+大家可能都不知道，这些看起来非常真实的人像，都是......
+
 ### 加餐6 - 爆款壁纸新方向
 
 小红书上最近有一类壁纸号很火：
@@ -68,112 +89,6 @@ sora 火了之后，后期儿童绘本的制作会更加简单和普及。今天
 评论区全是清一色的接好运
 
 ......
-
-### 23 案例展示 - 线稿变实物
-
-小红书上有一类笔记，是做线稿转 3D。
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/2747cfc0af76d69cfe33c4c42e28898d.png)
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/bc81b52e9117ccec077f50dc822228cc.png)
-
-正常来说这个操作是要用 stable diffusion 来做的，但是本小册没有讲 stable diffusion
-的内容，因此我会介绍两种其他简单的方法。
-
-### 一、Vega
-
-点击进入 vega 官网，<https://www.vegaai.net/>
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/4f77df857710de67d8b6c71fccf307f3.png)
-
-在风格广场中搜索「质感IP」，点击收藏
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/6cf2822ff2bc69175b74fc6499966825.png)
-
-然后点击左侧菜单栏，进入「条件生图」界面，上传一张线稿，右侧找到刚才收藏的模型，条件控制选择「线稿生成」
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/94d30f7b0fc0a03810828ad542de8de5.png)
-
-然后咒语中输入：摩托车，3d，摄影作品
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/c60de41d16d07d7666c1392115ab55b6.png)
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/f81c7949affdb7a7a0b0c53971c5e217.png)
-
-一张 3d 效果的图就出来了！
-
-### 二、WHEE
-
-进入 WHEE [官网](https://www.whee.com/)
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/d094b792f7204cbcbe8cf3e22fd55797.png)
-
-在左侧选择「文生图」
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/204f55d5090b704a489b0e32374b1d74.png)
-
-选择「高级创作」，输入提示词
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/1134a71ce33ec5df9c916997a9bba7dc.png)
-
-下方风格模型选择「简单盲盒」
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/cf8350c50a1dd014512bf5a075676e08.png)
-
-画面控制部分上传一张线稿，并选择「边缘检测」
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/54218c3122be14f74a17ef456bb751a7.png)
-
-然后就可以出图了，建议大家把出图尺寸调节的和线稿一致哦。
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/22b5994a2aa3c4b7e27fa79fe7356e01.png)
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/a78bce99dd7cb96b245452800dbfffd0.png)
-
-### 三、Midjourney
-
-以上两种方法出图精确度不错，和线稿非常吻合，但你会发现光影效果差点意思。所以大家也可以选择直接在 Midjourney
-里出图，光影效果会更好，但相应的控制程度会有一定程度的降低。
-
-比如我们还是选择这个线稿：
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/88047500e52cc37c1da9428f506691c8.png)
-
-上传到 midjourney
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/e843b13f4d2b70262a41b7eb653f86ee.png)
-
-然后直接选择图生图的方式，咒语：
-
-图片链接+**motorcycle, 3d, photography,soft lighting, solid background --v 5.2**
-
-建议大家不要用 iw2，不然最终的效果可能太像原图了，也就是不够 3d，建议默认就行。最终效果：
-
-![](https://static.xiaobot.net/file/2023-11-30/293161/e85af7a2c1982c2826557e0d63e0da82.png)
-
-再感叹一句：光影方面，midjourney 果然还是无敌啊。
-
-💡
-如果觉得有收获，请点一点左下角的「有启发」，[点我即可直接跳转到专栏合集](https://xiaobot.net/post/b640e5a5-8596-4fe8-80af-91a63ad8407a)。
-
-上一页：[案例 - 人物换脸](https://xiaobot.net/post/39205baa-fddb-4e9d-8e43-c7b16bb0052f)
-
-下一页：[案例 -
-龙宝宝头像](https://xiaobot.net/post/ffe78b72-67a6-4500-b05b-750e0708afff)
-
-### 22 案例展示 - 人物换脸
-
-人物换脸要用到 InsideFaceSwap 这个机器人，具体步骤如下：
-
-1\. 垫图，生成基本的图像外观，把这张图作为换脸的底图
-
-2\. 存取脸部数据，用 I......
-
-### 21 案例展示 - 教程号制作
-
-AI 绘画这个赛道有不少做教程的，我也推荐大家都试试教程号，后面引流卖课卖资料都是非常猛的。
-
-教程号的封面可以参考上面这个账号，使用单图+大字的形式
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>
