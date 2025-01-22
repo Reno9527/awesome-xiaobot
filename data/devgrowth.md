@@ -7,9 +7,19 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[独立开发营销获客增长手册](https://xiaobot.net/p/devgrowth?refer=0b133df9-27dc-423b-8101-639049001c13)|[Yangyi](https://x.com/Yangyixxxx)|1757人|55篇|2024-11-22|
+|[独立开发营销获客增长手册](https://xiaobot.net/p/devgrowth?refer=0b133df9-27dc-423b-8101-639049001c13)|[Yangyi](https://x.com/Yangyixxxx)|1794人|56篇|2025-01-21|
 
 ## 最近更新
+### 工具型产品的营销秘籍：别卖会员，要转化心智
+
+当你在卖工具时，人们往往难以感受到价值
+
+但如果你卖课，你其实在兜售一个解决方案，产品的价值将被进行心智转化
+
+变成用户愿意接受的方式主动去了解
+
+工具产品为什么增长不起......
+
 ### 【SEO】11种当下即可开始的SEO策略
 
   1. 每隔3个月检查一次你的Google搜索控制台。找到你正在排名但未优化的关键词。将这些关键词融入现有内容以增加流量。
@@ -138,20 +148,6 @@ www.growthunhinged.com/p/how-to-build-your-early-gtm-strategy
 引言
 
 在这个......
-
-### 【工具推荐】Reddit方向调研工具 - Buzzabout
-
-背景
-
-前几天Producthunt有一个AI工具真的非常棒
-
-和我之前想的如出一辙
-
-就是Buzzabout
-
-推荐原因
-
-Buzzabout是用来通过关键......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

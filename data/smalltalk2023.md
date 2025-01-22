@@ -15,9 +15,15 @@ SmallTalk · 第一季 → https://xiaobot.net/p/smalltalk
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[SmallTalk · 第二季（连载中）](https://xiaobot.net/p/smalltalk2023?refer=0b133df9-27dc-423b-8101-639049001c13)|Light|1242人|119篇|2024-11-19|
+|[SmallTalk · 第二季（连载中）](https://xiaobot.net/p/smalltalk2023?refer=0b133df9-27dc-423b-8101-639049001c13)|Light|1251人|120篇|2024-12-24|
 
 ## 最近更新
+### 缘起性空
+
+人总是要说很多话，然后保持沉默。多年以前，在冯友兰的《中国哲学简史》的末尾读到这句话，留下了深刻的印象。往后的岁月，常常想起。
+
+马克思也说：批判的武器不能替代武器的批判......
+
 ### 向投资者学决策
 
 2022 年 7 月写过的一个文档，是一个提纲式的分享。有趣的是，大多数话题我在未来两年又都做过展开阐述（会在文内以链接形式附上）。
@@ -93,20 +99,6 @@ SmallTalk · 第一季 → https://xiaobot.net/p/smalltalk
 大难不死，超量恢复，方能进步。
 
 去年 1......
-
-### 碎片集 Vol.016
-
-2023/11/09
-
-每条笔记都是一个入口。
-
-2023/11/10
-
-长夜思人生，人生如长夜。
-
-2023/11/12
-
-保持流动，捕捉可能......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

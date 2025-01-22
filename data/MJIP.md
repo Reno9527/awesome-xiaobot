@@ -16,9 +16,17 @@ Prompt 模板 70多个。成功售卖 Prompt 模板、实体画、定制画、�
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[用 Midjourney 做成可售卖商品](https://xiaobot.net/p/MJIP?refer=0b133df9-27dc-423b-8101-639049001c13)|imluffy|4人|12篇|2024-12-01|
+|[用 Midjourney 做成可售卖商品](https://xiaobot.net/p/MJIP?refer=0b133df9-27dc-423b-8101-639049001c13)|imluffy|4人|13篇|2024-12-03|
 
 ## 最近更新
+### AI 举牌小能手中文版
+
+现在 AI 的一个 Prompt 模板就能完成以前 App 小工具的功能，比如这个举牌小能手。纯 AI 10 秒生成，无任何修改。中文汉字，稳定出图。
+
+1、AI工具
+
+目前......
+
 ### Prompt 模板复刻 90 万粉Tiktok博主短视频
 
 只需要一个 Midjourney Prompt 模板，就能做出这个拥有 911.7 k 粉 TikToker Punkey Doodles
@@ -80,12 +88,6 @@ Midjourney 画这类无法直接生成的绘画。
 
 最近看了一个老外做的三国历史的视频，发现里面的动画我可以轻松使用 Midjourney 来复刻。于是就有了这篇教程，可以帮助历史知识 UP
 主生成类似素材。下面一一给大家演示怎么做。
-
-### 如何用 Midjourney 为自媒体突发热点做配图？
-
-当一个突发事件发生，你有没有想过用 Midjourney 来做配图？
-
-你可能会遇到这样的状况：1 、事件热度快过去了，Midjourney 还在生成图片中；2 、......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

@@ -9,9 +9,14 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[玩转 ChatGPT](https://xiaobot.net/p/play-chatgpt?refer=0b133df9-27dc-423b-8101-639049001c13)|R|1152人|50篇|2024-10-08|
+|[玩转 ChatGPT](https://xiaobot.net/p/play-chatgpt?refer=0b133df9-27dc-423b-8101-639049001c13)|R|1152人|51篇|2025-01-03|
 
 ## 最近更新
+### 50\. ChatGPT 项目介绍及使用指南
+
+以前的聊天都在一个列表里面，杂乱无章，不方便查阅，于是 ChatGPT 发布了 "Projects"
+项目功能，项目提供了一种全新的方式来对文件和聊天进行分组，相当于一个分类一样，可以很好的管理......
+
 ### 49\. ChatGPT Canvas 功能介绍及使用指南
 
 Canvas 介绍
@@ -81,12 +86,6 @@ GPTs @mentions 功能来了，太强了👍
 你会玩什么小游戏？
 
 明白了， ......
-
-### 40\. ChatGPT 快速制作简历技巧
-
-大家都知道，简历是敲门砖，一份好的简历能让你在众多求职者中脱颖而出，如果没有一定的能力，语言组织能力又不行，写出好的简历还是挺有难度的。
-
-现在有了 ChatGPT，就可......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

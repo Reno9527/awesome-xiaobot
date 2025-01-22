@@ -21,9 +21,17 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[ChatGPT精进指南](https://xiaobot.net/p/AIclass?refer=0b133df9-27dc-423b-8101-639049001c13)|Alchian花生|652人|65篇|2024-10-20|
+|[ChatGPT精进指南](https://xiaobot.net/p/AIclass?refer=0b133df9-27dc-423b-8101-639049001c13)|Alchian花生|675人|66篇|2025-01-16|
 
 ## 最近更新
+### ChatGPT上线「任务」功能，离Agent还远，但怪实用的
+
+一、ChatGPT发布「任务」功能
+
+2025年1月15日，ChatGPT发布了一个叫「任务」（task）的新功能，发布文章可以看这里：
+
+Scheduled tasks in ChatG......
+
 ### 【番外】调用OpenAI API，3分钟翻译完一本书
 
 专栏最近更新得很少，有两部分原因：
@@ -78,11 +86,6 @@ OpenAI在北京时间5月14日的凌晨开了场发布会，没有大众此前�
 一、GPT Store生态现状
 
 OpenAI前几天发了个推特，表示正在和部分美国的GPTs开发者试验基于GPTs使用量支付佣金的合作，虽然现在GPTs的生态还有抄袭、知识产权难以得到保护等问题，但......
-
-### 番外：Sora能力与原理详解（附内测申请攻略）
-
-2月16日凌晨OpenAI发布了Sora，这是继去年3月GPT4的发布会AI界最重大的消息了，他让几个小时前发布100万上下文长度的Gemini PRO
-1.5版本的谷歌成了AI界......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

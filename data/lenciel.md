@@ -11,7 +11,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[不美好药店](https://xiaobot.net/p/lenciel?refer=0b133df9-27dc-423b-8101-639049001c13)|lenciel|11人|120篇|2024-07-27|
+|[不美好药店](https://xiaobot.net/p/lenciel?refer=0b133df9-27dc-423b-8101-639049001c13)|lenciel|9人|120篇|2024-07-27|
 
 ## 最近更新
 ### Let's stop here

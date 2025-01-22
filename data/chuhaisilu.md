@@ -10,7 +10,7 @@ AI小众赚钱领域\n- 如何发现需求\n- twitter，reddit等社媒如何获
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[50个出海赚钱niche和方法](https://xiaobot.net/p/chuhaisilu?refer=0b133df9-27dc-423b-8101-639049001c13)|Levi|27人|9篇|2024-08-09|
+|[50个出海赚钱niche和方法](https://xiaobot.net/p/chuhaisilu?refer=0b133df9-27dc-423b-8101-639049001c13)|Levi|28人|9篇|2024-08-09|
 
 ## 最近更新
 ### 一个简单的压缩工具，做到月入2500美金

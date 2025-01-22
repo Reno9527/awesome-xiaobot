@@ -7,9 +7,14 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[安全RSS](https://xiaobot.net/p/hacker?refer=0b133df9-27dc-423b-8101-639049001c13)|bot|282人|60篇|2024-11-27|
+|[安全RSS](https://xiaobot.net/p/hacker?refer=0b133df9-27dc-423b-8101-639049001c13)|bot|286人|61篇|2024-12-21|
 
 ## 最近更新
+### 武器化 WDAC：扼杀 EDR 的梦想
+
+Weaponizing WDAC: Killing the Dreams of EDR》是 Jonathan Beierle 和 Logan Goins 于
+2024 年 12 月 20 日发表......
+
 ### ShadowHound，规避性好一些的域查询方式
 
 ShadowHound 是一个PowerShell 工具，旨在为 BloodHound 映射 Active Directory
@@ -72,10 +77,6 @@ sq......
 
 CVE-2024-21413 是影响 Microsoft Outlook 的严重远程代码执行 (RCE)
 漏洞。此零日漏洞也称为“MonikerLink”漏洞，允许攻击者在受害者的机器上执行......
-
-### 隐藏进程真实路径，进程带windows真签名
-
-项目地址：https://github.com/qigpig/Ghosting-BOF
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

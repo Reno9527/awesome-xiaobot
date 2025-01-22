@@ -10,9 +10,15 @@ AI与ML和DL以及NLP之间是什么关系？\n💯 AIGC生态图景（AIGC Land
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AI通识课](https://xiaobot.net/p/aifd?refer=0b133df9-27dc-423b-8101-639049001c13)|王福强|21人|19篇|2024-10-15|
+|[AI通识课](https://xiaobot.net/p/aifd?refer=0b133df9-27dc-423b-8101-639049001c13)|王福强|21人|20篇|2024-12-16|
 
 ## 最近更新
+### 访问Gemini的三种方式
+
+前几天Google放出来了Gemini 2.0 flash experimental这个模型，口碑不错，个人试用后感觉也不错。
+
+大家如果想体验，通常可以使用下面三种方式......
+
 ### 五大AI开发神器
 
 AI领域的变化日新月异，没法天天跟进，阶段性做个总结，希望对大家有帮助。
@@ -70,16 +76,6 @@ Native Sp......
 谈到AI或者GPT的应用，很多人会提到“总结”类的场景，也就是Summary，问题是，Summary真的是使用GPT的合适场景吗？！
 
 个人觉得，假如某个信息对你来说重要......
-
-### 国外面向消费者类生成式AI产品分类与市场份额
-
-按照顺时针进行介绍和说明...
-
-搜索（Search）
-
-搜索类AI产品市场份额占比4%
-
-代表产品perplexity，闲名字太长的可以试试pplx......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

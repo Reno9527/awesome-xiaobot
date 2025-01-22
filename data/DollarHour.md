@@ -10,7 +10,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[美元小时工指南](https://xiaobot.net/p/DollarHour?refer=0b133df9-27dc-423b-8101-639049001c13)|carriespresso|436人|19篇|2024-09-13|
+|[美元小时工指南](https://xiaobot.net/p/DollarHour?refer=0b133df9-27dc-423b-8101-639049001c13)|carriespresso|468人|19篇|2024-09-13|
 
 ## 最近更新
 ### 加餐.01 Thomas Im - 2024年在Upwork上赚到$40,000后学到的事

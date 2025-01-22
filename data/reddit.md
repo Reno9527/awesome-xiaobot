@@ -8,9 +8,45 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Reddit营销获客增长手册](https://xiaobot.net/p/reddit?refer=0b133df9-27dc-423b-8101-639049001c13)|[Yangyi](https://x.com/Yangyixxxx)|131人|49篇|2024-12-01|
+|[Reddit营销获客增长手册](https://xiaobot.net/p/reddit?refer=0b133df9-27dc-423b-8101-639049001c13)|[Yangyi](https://x.com/Yangyixxxx)|203人|53篇|2024-12-19|
 
 ## 最近更新
+### 数据总结 | 2024年度Reddit宏观微观数据一览
+
+本文由Yangyi翻译自一篇QuickCreator生成的SEO文章
+
+QuickCreator是一个海外自动化生成SEO文章的工具
+
+所有数据在文末附上了信息源，数据内容由......
+
+### 新手上路 | 秒删帖，不明原因死号，往往因为这个原因
+
+我遵守Rule了，为什么还是死号
+
+这种结果往往有2个情况：
+
+1、80%是被Reddit Mod管控了
+
+2、20%是被Subreddit Mod管控，部分rule并没有明确展......
+
+### 新手上路 | 使用Spoiler功能优化链接
+
+警惕禁用外部Link的频道
+
+有一些频道，非常封闭，是完全禁止链接的，比如r/makemoney
+
+你只要发任何链接，都会收到Mod删除通知
+
+建议使用Sp......
+
+### 内容营销 | Reddit营销完全指南：一项基于3万个热门帖子的研究
+
+内容由Claude进行AI快速总结
+
+翻译自：foundationinc.co/lab/reddit-research/
+
+Reddit如何从一个小众论坛成长......
+
 ### 实战策略 | 利用Alternative to策略在Reddit做SEO
 
 做SEO的策略，在Reddit上也可以再度生效。
@@ -113,99 +149,6 @@ Subreddit Stats
 网址：subredditstats.com/
 
 ......
-
-### 工具锦囊 | Reddit排行 -- Redditlist
-
-什么是Redditlist
-
-顾名思义，redditlist其实就是基于subreddit的一个列表
-
-访问地址：redditlist.com/
-
-......
-
-### 工具锦囊 | AI美化评论 -- Redplus
-
-什么是Redplus
-
-他可以通过关键词检索帖子，然后AI生成回复，这个插件和Replyguy不太一样的地方在于：这个插件是需要人工copy回复
-
-chrome插件安装地址：......
-
-### 工具锦囊 | 自动化评论 -- Replyguy
-
-Replyguy是什么
-
-一个用来自动化进行搜帖评论的工具
-
-访问地址：replyguy.com
-
-一条评论在0.1usd ~ 0.5usd左右<......
-
-### 工具锦囊 | 分析帖子&用户 -- Gigabrain-ai
-
-Gigabrain在之前我不止一次提及过
-
-它有对应的chrome插件：
-
-![](https://static.xiaobot.net/file/2024-10-28/45150/ad21b323cd3c633e528cf4f3b5ecdc61.png)
-
-可以访问：<https://chromewebstore.google.com/detail/gigabrain-ai-companion-
-fo/kofkhnkdmpbngifdgbjeedlppjilcaei?hl=zh-CN>
-
-当然，他也有自己的web端：
-
-[https://thegigabrain.com/](https://thegigabrain.com/profile/reddit/yangyixxxx)
-
-# 有什么用？
-
-首先，Gigabrain可以帮你读帖子分析评论
-
-我举个例子，比如你想了解professional headshot
-
-可以在界面输入对应关键词
-
-![](https://static.xiaobot.net/file/2024-10-28/45150/27f2e69e41cae1b1ec7edf997a5a6699.png)
-
-### 总结评论
-
-![](https://static.xiaobot.net/file/2024-10-28/45150/a153937be62a0774e478551d840f6b29.png)
-
-可以看到，他帮我们读了101条评论，总结出了观点
-
-我们还可以基于他的TLDR总结，进行相关提问
-
-### 溯源帖子
-
-![](https://static.xiaobot.net/file/2024-10-28/45150/c6f03b6be1e69c3e36a7bf182eab32dc.png)
-
-他会提供对应的帖子内容，可以进去查看
-
-而且会把这些帖子观点做总结，也非常适合在挖掘需求的朋友使用它
-
-### 专家用户
-
-他还会帮你挖掘出一些适合交谈的专家用户
-
-你可以去找他们聊天挖掘需求
-
-当然，也非常适合你通过这个路径寻找帮你营销的KOL/KOC
-
-![](https://static.xiaobot.net/file/2024-10-28/45150/82448fa73ab3d92b4c2d4721455735a2.png)
-
-### AI回答
-
-![](https://static.xiaobot.net/file/2024-10-28/45150/c2c3a4e70dbfd1d1aa3b73a0de862e60.png)
-
-不过这个AI回答就一般了，并没有太多insights在里面
-
-### 个人Profile总结
-
-可以协助你对每个用户有一个总体概览性的了解！
-
-比如下图左侧区域，就是针对我的个人账号进行的详细介绍
-
-![](https://static.xiaobot.net/file/2024-10-28/45150/e24bc068442d3bf5f020beb5c761d441.png)
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

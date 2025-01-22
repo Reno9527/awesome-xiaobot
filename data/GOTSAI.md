@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[GOTS Club AI周刊](https://xiaobot.net/p/GOTSAI?refer=0b133df9-27dc-423b-8101-639049001c13)|MR·VON|19人|600篇|2023-09-24|
+|[GOTS Club AI周刊](https://xiaobot.net/p/GOTSAI?refer=0b133df9-27dc-423b-8101-639049001c13)|MR·VON|19人|651篇|2023-09-24|
 
 ## 最近更新
 ### GOTS AI周刊#019

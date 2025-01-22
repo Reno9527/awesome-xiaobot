@@ -9,7 +9,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Python精选300题](https://xiaobot.net/p/python-tutorial?refer=0b133df9-27dc-423b-8101-639049001c13)|迷途小书童的Note|32人|302篇|2023-06-20|
+|[Python精选300题](https://xiaobot.net/p/python-tutorial?refer=0b133df9-27dc-423b-8101-639049001c13)|迷途小书童的Note|33人|302篇|2023-06-20|
 
 ## 最近更新
 ### 专栏福利: 做合伙人，享50%佣金

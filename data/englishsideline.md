@@ -7,9 +7,17 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[经济学人精选词汇解析](https://xiaobot.net/p/englishsideline?refer=0b133df9-27dc-423b-8101-639049001c13)|应许|54人|109篇|2024-10-04|
+|[经济学人精选词汇解析](https://xiaobot.net/p/englishsideline?refer=0b133df9-27dc-423b-8101-639049001c13)|应许|55人|110篇|2025-01-03|
 
 ## 最近更新
+### 重要！请订阅专栏的同学进群！
+
+重要！请订阅专栏的同学进群！
+
+进群方法：扫下方二维码，自动通过后，回复111，回复111，回复111，自动邀请进群。
+
+以后内容将首先在群里发布，汇总后再发布到小报童这里。......
+
 ### 从Rome到roam, ramble
 
 roam /rəʊm/ 漫步；闲逛。例句：The cows roam freely in the pasture.(奶牛在牧场上自由漫步。)
@@ -100,12 +108,6 @@ relaxation. (喝一杯茶可以帮助减轻焦虑并......
 
 Lavish 源自原始印欧语词根*leue-，意思是洗，常见的同根词如lavatory厕所，需要冲洗的地方。lavage, deluge,
 ablution分别表示灌洗、洪水、沐浴，都和水跟洗有......
-
-### 从丘比特(Cupid)到covet, cupidity, covetous
-
-Cupid 丘比特是罗马神话中的爱神、激情之神。因此有强烈渴望的意思。Cupidity表示极度的贪婪。
-
-同时，根据英语的造词规律，换掉元音意思不变，Cupid和covet是同义词，因......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

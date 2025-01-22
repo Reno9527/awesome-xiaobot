@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[MathType和MathPix安装使用](https://xiaobot.net/p/shiguang1?refer=0b133df9-27dc-423b-8101-639049001c13)|时光|6人|1篇|2024-05-28|
+|[MathType和MathPix安装使用](https://xiaobot.net/p/shiguang1?refer=0b133df9-27dc-423b-8101-639049001c13)|时光|7人|1篇|2024-05-28|
 
 ## 最近更新
 ### MathType和MathPix安装使用教程

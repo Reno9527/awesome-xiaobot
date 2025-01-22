@@ -14,9 +14,9 @@
 
 给小册取名「知识黑洞」纯粹是因为觉得很酷。
 
-是的，正是这份纯粹，更让我坚定了我想守护「纯粹的研究」这份仍在我心中微弱的光的决心。
+是的，正是这份纯粹，更让我坚定了我想守护自己内心「纯粹的研究」这份犹存微光的决心。
 
-我深知身陷于当今科研环境评......
+我深知身陷于当今科研环境评价......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>
