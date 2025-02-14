@@ -15,9 +15,19 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AIGC大模型零成本赚钱](https://xiaobot.net/p/chat?refer=0b133df9-27dc-423b-8101-639049001c13)|IDO老徐|3557人|167篇|2025-01-07|
+|[AIGC大模型零成本赚钱](https://xiaobot.net/p/chat?refer=0b133df9-27dc-423b-8101-639049001c13)|IDO老徐|3561人|168篇|2025-01-24|
 
 ## 最近更新
+### 国产 AI 大模型 DeepSeek ，免费，手机号注册直接用，很强
+
+见图 ，
+
+官网 chat.deepseek.com/
+
+如果是手机上玩，点开官网，右下角，下载app
+
+......
+
 ### AI 应用：Get笔记，支持 给一个链接 或者给一张图片，直接提炼内容并生成一条笔记，提高效率 👍
 
 效果看图 ，
@@ -97,16 +107,6 @@
 问：去哪里可以弄到 GPT 登录账号
 
 答：t.zsxq.com/196eLfWaU 现在都是免费的 。 kimi 直接用 。 gpt 也可......
-
-### AI 避坑：赚钱之前，先少亏钱
-
-01
-
-#AI避坑
-
-付费买 AI 工具需谨慎，特别是一些承诺「永久可用」的，
-
-基本上是第三方套壳，说不定哪天......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

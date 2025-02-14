@@ -16,9 +16,17 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[一个人的「图书馆」：关注商业、人文、心理](https://xiaobot.net/p/leewen?refer=0b133df9-27dc-423b-8101-639049001c13)|Liwen|85人|34篇|2025-01-04|
+|[一个人的「图书馆」：关注商业、人文、心理](https://xiaobot.net/p/leewen?refer=0b133df9-27dc-423b-8101-639049001c13)|Liwen|79人|35篇|2025-02-10|
 
 ## 最近更新
+### 年初絮语：清迈、青春、命运、学徒、投资
+
+一个月前去了清迈。
+
+去之前媒体太多泰国绑架失踪的消息，扰人心绪。出发那天，司机得知我们要去泰国都觉得有点好笑，带上这复杂的心情，我们到达了清迈。
+
+<......
+
 ### All In Podcast 2025年最新预测
 
 All In是我这五年听的最多的播客，四个billionnaires对全球政经和投资热点侃侃而谈。2024年见证了All
@@ -70,14 +78,6 @@ In播客如何影响了美国的大选，以及David Sacks如何因为这档播�
 一周多前尝试了三种疗愈的方式——Therapy, Spirituality and Buddhist Meditation。
 
 经过一周沉淀，今天可以来分享一下体悟和感受......
-
-### 沉浮与臣服（中）
-
-我这两天在读The Surrender Experiment，给我的启示还是很大的。接着上一篇继续讲人生。
-
-4\. 天命可Surrender
-
-宇......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

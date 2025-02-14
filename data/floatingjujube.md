@@ -7,9 +7,11 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[宇宙里的一颗枣](https://xiaobot.net/p/floatingjujube?refer=0b133df9-27dc-423b-8101-639049001c13)|兰波波lanbobo|7人|31篇|2025-01-16|
+|[宇宙里的一颗枣](https://xiaobot.net/p/floatingjujube?refer=0b133df9-27dc-423b-8101-639049001c13)|兰波波lanbobo|7人|32篇|2025-02-03|
 
 ## 最近更新
+### 2025年1月阅读
+
 ### 读书偶遇
 
 今天读这本，遇到了我专栏合集的图片：丢勒画的猫头鹰。一切都太奇妙了！
@@ -45,18 +47,6 @@
 （原宿站和目黑站）
 
 ### 生活诗笺
-
-### 2024年9月阅读
-
-2024年9月阅读：
-
-江汀《北京和灰尘》
-
-欧健梅《冷到下雪》
-
-《巴黎评论作家访谈8》
-
-江汀《来自邻人的光》
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

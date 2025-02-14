@@ -9,9 +9,16 @@ teacher2023，备注：222，凭截图领120套副业SOP，如果微信加不上
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AI视频一本通](https://xiaobot.net/p/xitang6666?refer=0b133df9-27dc-423b-8101-639049001c13)|西堂-AI视频|3095人|57篇|2024-09-17|
+|[AI视频一本通](https://xiaobot.net/p/xitang6666?refer=0b133df9-27dc-423b-8101-639049001c13)|西堂-AI视频|3226人|58篇|2025-02-14|
 
 ## 最近更新
+### 剧本篇 06 | DeepSeek 生成剧本
+
+大模型的里程碑-DeepSeek
+
+DeepSeek 是一家中国人工智能初创公司，发布了一个叫 DeepSeek-R1 的开源AI模型。它在逻辑推理和性能上表现极其优秀，性能对标 OpenAI
+O1......
+
 ### 09 进阶篇 | AI艺术字（商汤秒画）
 
 本次用到的工具是：商汤秒画：miaohua.sensetime.com/generate
@@ -180,14 +187,6 @@ Diffusion以其卓越的性能和直观易用的界面，迅速成为了研究�
 这里我们推荐使用云端服务器，登陆onethingai网址：
 
 console.oneth......
-
-### 视频篇 06 | luma使用介绍
-
-官网地址：lumalabs.ai/dream-machine/creations
-
-注意：需要魔法
-
-点击谷歌登陆<......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

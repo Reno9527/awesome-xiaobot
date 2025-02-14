@@ -8,7 +8,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[西门投资理财第一课](https://xiaobot.net/p/ximenzhuanzhai?refer=0b133df9-27dc-423b-8101-639049001c13)|Simon Pang|181人|26篇|2025-01-12|
+|[西门投资理财第一课](https://xiaobot.net/p/ximenzhuanzhai?refer=0b133df9-27dc-423b-8101-639049001c13)|Simon Pang|187人|26篇|2025-01-12|
 
 ## 最近更新
 ### 4.2 手把手教你参与港股打新！（建议收藏）

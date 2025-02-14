@@ -11,7 +11,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[左思右想](https://xiaobot.net/p/thinkagain?refer=0b133df9-27dc-423b-8101-639049001c13)|Gauchewood|6人|507篇|2025-01-10|
+|[左思右想](https://xiaobot.net/p/thinkagain?refer=0b133df9-27dc-423b-8101-639049001c13)|Gauchewood|5人|507篇|2025-01-10|
 
 ## 最近更新
 ### 告别这个专栏

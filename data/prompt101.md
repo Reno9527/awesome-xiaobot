@@ -9,7 +9,7 @@ jznhljg 进【织梦师 101】 讨论群切磋交流。
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Prompt 101](https://xiaobot.net/p/prompt101?refer=0b133df9-27dc-423b-8101-639049001c13)|Arthur|150人|24篇|2024-09-23|
+|[Prompt 101](https://xiaobot.net/p/prompt101?refer=0b133df9-27dc-423b-8101-639049001c13)|Arthur|128人|24篇|2024-09-23|
 
 ## 最近更新
 ### 24 压缩表达

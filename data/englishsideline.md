@@ -7,9 +7,15 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[经济学人精选词汇解析](https://xiaobot.net/p/englishsideline?refer=0b133df9-27dc-423b-8101-639049001c13)|应许|55人|110篇|2025-01-03|
+|[经济学人精选词汇解析](https://xiaobot.net/p/englishsideline?refer=0b133df9-27dc-423b-8101-639049001c13)|应许|68人|111篇|2025-01-27|
 
 ## 最近更新
+### 从heir到heritage, inherit, heredity
+
+以"her-"（继承/遗传）这一词根为线索可以解开这四个重要单词的记忆密码。
+
+这个拉丁词根最早见于"heir"（继承人），发音为/eər/，字母"h"保持沉默，暗示着家族传承中无......
+
 ### 重要！请订阅专栏的同学进群！
 
 重要！请订阅专栏的同学进群！
@@ -103,11 +109,6 @@ condud "fuel."
 
 allay /əˈleɪ/ 减轻，缓和。例句：A cup of tea can help allay anxiety and promote
 relaxation. (喝一杯茶可以帮助减轻焦虑并......
-
-### 从lavatory到Lavish, lotion, lavage, deluge, ablution
-
-Lavish 源自原始印欧语词根*leue-，意思是洗，常见的同根词如lavatory厕所，需要冲洗的地方。lavage, deluge,
-ablution分别表示灌洗、洪水、沐浴，都和水跟洗有......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

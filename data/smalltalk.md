@@ -13,7 +13,7 @@ SmallTalk · 第二季 → https://xiaobot.net/p/smalltalk2023
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[SmallTalk · 第一季（已完结）](https://xiaobot.net/p/smalltalk?refer=0b133df9-27dc-423b-8101-639049001c13)|Light|945人|181篇|2023-01-04|
+|[SmallTalk · 第一季（已完结）](https://xiaobot.net/p/smalltalk?refer=0b133df9-27dc-423b-8101-639049001c13)|Light|946人|181篇|2023-01-04|
 
 ## 最近更新
 ### Bye 2022

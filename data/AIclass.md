@@ -21,9 +21,14 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[ChatGPT精进指南](https://xiaobot.net/p/AIclass?refer=0b133df9-27dc-423b-8101-639049001c13)|Alchian花生|675人|66篇|2025-01-16|
+|[ChatGPT精进指南](https://xiaobot.net/p/AIclass?refer=0b133df9-27dc-423b-8101-639049001c13)|Alchian花生|677人|67篇|2025-02-01|
 
 ## 最近更新
+### 加餐：DeepSeek使用技巧
+
+DeepSeek
+这几天的火热大家应该都感受到了。尤其是R1发布10多天后，OpenAI都被急得在今天推出了更聪明更便宜的o3-mini模型，而且他甚至把这个推理模型给免费用户也给配上了，这很大......
+
 ### ChatGPT上线「任务」功能，离Agent还远，但怪实用的
 
 一、ChatGPT发布「任务」功能
@@ -80,12 +85,6 @@ OpenAI在北京时间5月14日的凌晨开了场发布会，没有大众此前�
 一、什么是结构化提示词
 
 大概半年前就看到结构化提示词的兴起，大体可以认为是通过一套固定化结构化的模板去写你的提示词，如果是新手，乍看这套提示词还挺容易被唬住，因为它的复杂性让它看起来还是挺专业的。......
-
-### 5.13 GPTs思维，为什么一定要制作几个GPTs
-
-一、GPT Store生态现状
-
-OpenAI前几天发了个推特，表示正在和部分美国的GPTs开发者试验基于GPTs使用量支付佣金的合作，虽然现在GPTs的生态还有抄袭、知识产权难以得到保护等问题，但......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

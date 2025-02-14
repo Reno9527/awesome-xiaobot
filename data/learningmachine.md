@@ -9,7 +9,7 @@ machine。\n\n价格是一杯咖啡，想象一个绵绵细雨的午后，我们
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[机器学习和学习机器](https://xiaobot.net/p/learningmachine?refer=0b133df9-27dc-423b-8101-639049001c13)|李光华|David Lee|24人|513篇|2024-09-10|
+|[机器学习和学习机器](https://xiaobot.net/p/learningmachine?refer=0b133df9-27dc-423b-8101-639049001c13)|李光华|David Lee|24人|536篇|2024-09-10|
 
 ## 最近更新
 ### 致王祯

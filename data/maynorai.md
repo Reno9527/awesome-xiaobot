@@ -10,7 +10,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[GPT赚钱的50种思路 请订阅新的](https://xiaobot.net/p/maynorai?refer=0b133df9-27dc-423b-8101-639049001c13)|AIMaynor|4人|223篇|2024-06-14|
+|[GPT赚钱的50种思路 请订阅新的](https://xiaobot.net/p/maynorai?refer=0b133df9-27dc-423b-8101-639049001c13)|AIMaynor|4人|246篇|2024-06-14|
 
 ## 最近更新
 ### GPT+简历代做

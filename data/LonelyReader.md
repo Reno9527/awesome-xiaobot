@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[惊奇短信](https://xiaobot.net/p/LonelyReader?refer=0b133df9-27dc-423b-8101-639049001c13)|葛旭 Don Jesús DeManchul Gexús|5人|37篇|2024-01-15|
+|[惊奇短信](https://xiaobot.net/p/LonelyReader?refer=0b133df9-27dc-423b-8101-639049001c13)|葛旭 Don Jesús DeManchul Gexús|6人|37篇|2024-01-15|
 
 ## 最近更新
 ### 惊奇短信 No. 138 | 吃不了不学习的苦

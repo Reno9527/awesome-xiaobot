@@ -8,9 +8,35 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Reddit营销获客增长手册](https://xiaobot.net/p/reddit?refer=0b133df9-27dc-423b-8101-639049001c13)|[Yangyi](https://x.com/Yangyixxxx)|203人|53篇|2024-12-19|
+|[Reddit营销获客增长手册](https://xiaobot.net/p/reddit?refer=0b133df9-27dc-423b-8101-639049001c13)|[Yangyi](https://x.com/Yangyixxxx)|215人|56篇|2025-02-12|
 
 ## 最近更新
+### 广告投放 | Reddit早期投放策略
+
+在Reddit早期投放，到底怎么设置预算比较好？
+
+其实，设置预算有几个原则：
+
+如果你更看重时间，那就请尽量提高预算，甚至一个频道直接拿100美金日预算来做测试，这样做是能最快时间筛选定......
+
+### 广告投放 | 开启你的投放之旅
+
+Reddit投放和其他平台有什么差别
+
+我觉得最大的差别在于CPC(cost per click，每次点击的成本) 足够便宜
+
+我最近在做一些Reddit投放测试，我发现Reddit平台的......
+
+### 新手上路 | Reddit新手养号全流程
+
+最近总有朋友问，号Karma也起来了，为啥还会被封？
+
+其实养号有个误区，其实养号最重要的，并不是要养Karma！
+
+背景
+
+今天我们Reddit群有个朋友问账号被suspend......
+
 ### 数据总结 | 2024年度Reddit宏观微观数据一览
 
 本文由Yangyi翻译自一篇QuickCreator生成的SEO文章
@@ -117,38 +143,6 @@ Page，甚至堆砌大量信息。因为用户是去找信息的，而不是找�
 当有新的内容提及你的关键词时
 
 他会发送email给你
-
-### 方向调研 | 基于Perplexity做Reddit调研
-
-Perplexity如何做调研
-
-他有一个Focus 功能
-
-可以选择Social这个Source来源
-
-这里面大量的数据是从Reddit来的
-
-当你输入......
-
-### 工具锦囊 | 自动化发帖 -- Laterforreddit
-
-Laterforreddit
-
-这个产品是帮你寻找subreddits，并寻找合适的时间进行自动化发帖的一个工具
-
-坦白来讲我没体验过，自动化发帖其实如果是你自......
-
-### 工具锦囊 | 子版块数据统计 -- Subreddit stats
-
-Subreddit Stats
-
-这个提过好几次啦
-
-是用来查看板块具体数据的
-
-网址：subredditstats.com/
-
-......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

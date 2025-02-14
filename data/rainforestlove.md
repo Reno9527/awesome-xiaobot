@@ -22,16 +22,24 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[雨林情书 by Jess](https://xiaobot.net/p/rainforestlove?refer=0b133df9-27dc-423b-8101-639049001c13)|Jess 朱静姝|525人|59篇|2025-01-14|
+|[雨林情书 by Jess](https://xiaobot.net/p/rainforestlove?refer=0b133df9-27dc-423b-8101-639049001c13)|Jess 朱静姝|548人|60篇|2025-01-29|
 
 ## 最近更新
+### Bad at Being Rich
+
+2025年1月的头10天，我的雨林商学院收入50.1万。
+
+这是我短时间赚到最多的一次体验。I'm pretty good at making money!
+
+......
+
 ### 与绝望匮乏感的羞耻Play
 
 Desperate，这个词真是太精妙了，一看就自带卑贱可怜可悲的画面感。
 
 中文不太好翻译，比较接近的是“匮乏”、“绝望”、“苦苦哀求”、“屈膝乞讨”、“极端渴求”。
 
-### 屎一样的初稿
+### 屎一样的初稿——用ChatGPT改写你的信念
 
 作家Anne Lamott在她的经典写作指导书 Bird by Bird里面写过，
 
@@ -109,7 +117,22 @@ Desperate，这个词真是太精妙了，一看就自带卑贱可怜可悲的�
 
 [**如狼（六）吊缚**](https://xiaobot.net/post/c09e9f03-b110-4b78-8561-4fffe6d7ffe0)
 
-#### 2\. 承诺恐惧星人/回避型必读
+[**如狼（七）
+快乐延长术**](https://xiaobot.net/post/2eb6db1d-56bc-4171-8222-c44d0a5bb843)
+
+[**与绝望匮乏感的羞耻Play**](https://xiaobot.net/post/926897a9-f168-4aa5-81fa-7bbab72d477b)
+
+#### 2\. 敏感善良拧巴星人的生财之道
+
+[**史上最强营销文案——心经**](https://xiaobot.net/post/fd1a914b-6db7-40ec-a0aa-
+ecfa8d68066e)
+
+[**关于金钱，你的灵魂想听到这些话**](https://xiaobot.net/post/1635025e-f10e-4ea8-937e-f34e163f43fa)
+
+[**Bad at Being
+Rich**](https://xiaobot.net/post/e4380e22-46d4-450d-923b-8320b672da9b)
+
+#### 3\. 承诺恐惧星人/回避型必读
 
 [**运动拯救婚姻，眼泪托起承诺**](https://xiaobot.net/post/fa4ece25-8162-4eca-92dc-18deb497dad3)
 
@@ -119,9 +142,11 @@ Desperate，这个词真是太精妙了，一看就自带卑贱可怜可悲的�
 
 [**解梦示例：我用刀追杀一个男人**](https://xiaobot.net/post/9fd9e0a6-a009-4501-b09d-d695220481db)
 
-#### 3\. 高敏感/21世纪不适症的精神避风港
+#### 4\. 高敏感/21世纪不适症的精神避风港
 
-[**关于金钱，你的灵魂想听到这些话**](https://xiaobot.net/post/1635025e-f10e-4ea8-937e-f34e163f43fa)
+[**一个找回力量的问题**](https://xiaobot.net/post/b5295e86-8b28-4153-ad2b-5bca11c2951b)
+
+[**屎一样的初稿——用ChatGPT改写你的信念**](https://xiaobot.net/post/9ae47d3a-cbb3-4022-a77c-c812ab0b9d43)
 
 [**信息排毒——成功学、身心灵和正食症的康复**](https://xiaobot.net/post/c76f2709-3f16-48e1-8280-92a4ea966ebc)
 
@@ -144,9 +169,6 @@ Desperate，这个词真是太精妙了，一看就自带卑贱可怜可悲的�
 [**附近的榜样（二）重学走路**](https://xiaobot.net/post/a2d8f616-74eb-4d60-8b49-78965dcc5c5f)
 
 [**附近的榜样（三）上帝是个保洁大姐**](https://www.xiaobot.net/post/b7366018-f111-4495-88e8-95314367b9f5)
-
-[**史上最强营销文案——心经**](https://xiaobot.net/post/fd1a914b-6db7-40ec-a0aa-
-ecfa8d68066e)
 
 #### 4\. 适合丧系人群的行动力解药
 
@@ -194,7 +216,7 @@ IFS实例**](https://xiaobot.net/post/0f2e9fcf-2dbd-4503-9682-02c7d327be6e)
 
 [**西方禅宗公案、甄嬛传姊妹篇——圣经**](https://xiaobot.net/post/1d68ebe0-b8f7-49e2-9d93-15f9e5fc7d43)
 
-[**你怎么能承受那么多负能量？——女巫秘籍（1）**](https://xiaobot.net/post/5d5819c7-9dd4-4f12-a2e5-1482b62a6354)
+[**你怎么能承受那么多负能量？——女巫秘籍**](https://xiaobot.net/post/5d5819c7-9dd4-4f12-a2e5-1482b62a6354)
 
 [**当代正统心理学也搞降妖除魔**](https://xiaobot.net/post/7becf775-19fe-4c4b-b105-9cf5594592ff)
 
@@ -214,12 +236,6 @@ IFS实例**](https://xiaobot.net/post/0f2e9fcf-2dbd-4503-9682-02c7d327be6e)
 他就是我的Alexander Technique的私教，Patrick Johnson。
 
 （没错我这个......
-
-### 附近的榜样（一）“你就是丑啊”
-
-随着我的生活越来越在地面扎根，我突然意识到，过去我向往的生活、羡慕的成就、对标的同行，都存在于互联网。
-
-这本身倒没什么，我确实也感恩于互联网让我发现了很多可爱的人们。<......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

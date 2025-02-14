@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Sally的咖啡故事会](https://xiaobot.net/p/jjmmmakemoney?refer=0b133df9-27dc-423b-8101-639049001c13)|Sallycat|2人|52篇|2024-10-06|
+|[Sally的咖啡故事会](https://xiaobot.net/p/jjmmmakemoney?refer=0b133df9-27dc-423b-8101-639049001c13)|Sallycat|1人|52篇|2024-10-06|
 
 ## 最近更新
 ### 体面

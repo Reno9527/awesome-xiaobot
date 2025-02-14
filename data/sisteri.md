@@ -10,7 +10,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[i姐英语STEAM](https://xiaobot.net/p/sisteri?refer=0b133df9-27dc-423b-8101-639049001c13)|智育i姐小助理|12人|216篇|2024-07-28|
+|[i姐英语STEAM](https://xiaobot.net/p/sisteri?refer=0b133df9-27dc-423b-8101-639049001c13)|智育i姐小助理|1人|12篇|2024-07-28|
 
 ## 最近更新
 ### "Make A Lemon Volcano" -37/100个儿童家庭双语科学STEAM

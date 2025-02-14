@@ -16,9 +16,14 @@ Prompt 模板 70多个。成功售卖 Prompt 模板、实体画、定制画、�
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[用 Midjourney 做成可售卖商品](https://xiaobot.net/p/MJIP?refer=0b133df9-27dc-423b-8101-639049001c13)|imluffy|4人|13篇|2024-12-03|
+|[用 Midjourney 做成可售卖商品](https://xiaobot.net/p/MJIP?refer=0b133df9-27dc-423b-8101-639049001c13)|imluffy|4人|14篇|2025-02-11|
 
 ## 最近更新
+### 如何用 DeepSeek 创作付费 MJ Prompt
+
+背景：前段时间比较少在 Promptbase 中更新售卖 Prompt 了，原因是每次创作一个 Prompt 模板比较花时间。最近一段时间 DeepSeek
+的出现惊艳了所有的人，于是尝试用 D......
+
 ### AI 举牌小能手中文版
 
 现在 AI 的一个 Prompt 模板就能完成以前 App 小工具的功能，比如这个举牌小能手。纯 AI 10 秒生成，无任何修改。中文汉字，稳定出图。
@@ -83,11 +88,6 @@ Midjourney 画这类无法直接生成的绘画。
 一、创作思路
 
 1 、一句话描述......
-
-### 如何用 Midjourney 做泼墨动画？
-
-最近看了一个老外做的三国历史的视频，发现里面的动画我可以轻松使用 Midjourney 来复刻。于是就有了这篇教程，可以帮助历史知识 UP
-主生成类似素材。下面一一给大家演示怎么做。
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

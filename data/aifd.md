@@ -10,9 +10,25 @@ AI与ML和DL以及NLP之间是什么关系？\n💯 AIGC生态图景（AIGC Land
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AI通识课](https://xiaobot.net/p/aifd?refer=0b133df9-27dc-423b-8101-639049001c13)|王福强|21人|20篇|2024-12-16|
+|[AI通识课](https://xiaobot.net/p/aifd?refer=0b133df9-27dc-423b-8101-639049001c13)|王福强|22人|22篇|2025-02-08|
 
 ## 最近更新
+### ai时代不变的东西
+
+管理复杂度的要求不变
+
+也就是依然需要熵减。
+
+前几天TVP群里有老总反映说AI写的代码多了之后，慢慢需要填的坑儿也多了。这其实也是正常反应，因为复杂度一点点累积之后，指望AI现阶段全都自......
+
+### 使用deepseek的三种选择
+
+随着deepseek发布V3和R1这些模型，deepseek的热度也越来越高，那么，有哪些渠道可以使用deepseek呢？
+
+### 公开服务
+
+最......
+
 ### 访问Gemini的三种方式
 
 前几天Google放出来了Gemini 2.0 flash experimental这个模型，口碑不错，个人试用后感觉也不错。
@@ -64,18 +80,6 @@ GitHub Copilot
 什么是RAG和GraphRAG？
 
 RAG是Retrieval-Augmented Generation的缩写，增强式信息获取与生成？......
-
-### 我是如何在「趣味背单词」专栏使用AI打辅助的
-
-这阵子正在往「福强私学」的「趣味背单词」专栏陆续添加单词以及相关方法论和趣味内容， 借着这个时机，跟大家分享下在这个制作过程中我是如何使用AI来打辅助的。
-
-Native Sp......
-
-### Summary or not, it's a problem！
-
-谈到AI或者GPT的应用，很多人会提到“总结”类的场景，也就是Summary，问题是，Summary真的是使用GPT的合适场景吗？！
-
-个人觉得，假如某个信息对你来说重要......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

@@ -8,7 +8,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Yestoday 创作底稿](https://xiaobot.net/p/yestoday?refer=0b133df9-27dc-423b-8101-639049001c13)|Ponge|31人|170篇|2024-12-09|
+|[Yestoday 创作底稿](https://xiaobot.net/p/yestoday?refer=0b133df9-27dc-423b-8101-639049001c13)|Ponge|29人|170篇|2024-12-09|
 
 ## 最近更新
 ### 订阅小报童的朋友们，麻烦加个群，感谢

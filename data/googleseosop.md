@@ -9,7 +9,7 @@ SEO、AI、独立站、工具站等任何出海赚美刀的方法，可以订阅
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Google SEO与出海商业实战SOP](https://xiaobot.net/p/googleseosop?refer=0b133df9-27dc-423b-8101-639049001c13)|码神|246人|21篇|2025-01-17|
+|[Google SEO与出海商业实战SOP](https://xiaobot.net/p/googleseosop?refer=0b133df9-27dc-423b-8101-639049001c13)|码神|257人|21篇|2025-01-17|
 
 ## 最近更新
 ### 针对Semantic Triple进行文章优化

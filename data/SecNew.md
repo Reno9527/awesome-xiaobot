@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[安全小报](https://xiaobot.net/p/SecNew?refer=0b133df9-27dc-423b-8101-639049001c13)|St3pBy|31人|187篇|2024-08-02|
+|[安全小报](https://xiaobot.net/p/SecNew?refer=0b133df9-27dc-423b-8101-639049001c13)|St3pBy|31人|210篇|2024-08-02|
 
 ## 最近更新
 ### Race Conditions Uncovered: A Practical Guide

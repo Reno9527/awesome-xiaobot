@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Elijah的技术与生活碎碎念](https://xiaobot.net/p/aigc4everyone?refer=0b133df9-27dc-423b-8101-639049001c13)|Credo ut intelligam|7人|253篇|2024-08-14|
+|[Elijah的技术与生活碎碎念](https://xiaobot.net/p/aigc4everyone?refer=0b133df9-27dc-423b-8101-639049001c13)|Credo ut intelligam|7人|276篇|2024-08-14|
 
 ## 最近更新
 ### PMPP阅读笔记：Chap3 Multidimensional grids and data

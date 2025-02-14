@@ -7,77 +7,78 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[英语日食记外刊精读](https://xiaobot.net/p/Englishous-eco?refer=0b133df9-27dc-423b-8101-639049001c13)|7 sir|76人|279篇|2025-01-21|
+|[英语日食记外刊精读](https://xiaobot.net/p/Englishous-eco?refer=0b133df9-27dc-423b-8101-639049001c13)|7 sir|82人|302篇|2025-02-13|
 
 ## 最近更新
-### 【经济学人精读】Netflix’s hits keep coming ｜ Netflix 的热门剧集接连不断
+### 【经济学人精读】Honda and Nissan’s failed tie-up ｜本田和日产合并失败
 
-原文level 1
+精读文本level 1
 
-Netflix is the biggest streaming service. It has done very well recently. Its
-sto......
+Honda and Nissan, two big car companies from Japan, wanted to become one very
+big comp......
 
-### 【经济学人精读】Donald Trump’s second coming ｜ 特朗普再临
+### 【经济学人精读】Inflation is now Trump’s problem ｜ 通货膨胀现在成了特朗普的难题
 
-原文level 1
+精读文本level 1
 
-On Monday, Donald Trump will become the president of America again. This is
-his second t......
+The first report about prices in America during Donald Trump's time as
+president came ......
 
-### 【拓展阅读】Why elite MBA graduates are struggling to find jobs ｜精英 MBA
-毕业生为何很难找工作？
+### 【经济学人精读】Can golf speed up? ｜ 高尔夫能加快节奏吗？
 
-摘要
+精读文本level 1
 
-文章探讨了美国商学院当前面临的挑战。通过分析顶尖商学院毕业生就业数据，文章指出就业率显著下降表明商学院正处于困境。文章回顾了长期以来对商学院的批评，包括其教学方式、毕业生追求利润最大化的刻板......
+Many sports are trying to be quicker now. In cricket, there's a short game
+called Twen......
 
-### 【经济学人精读】Kristi Noem’s moment ｜ 克里斯蒂·诺姆的时刻
+### 【经济学人精读】An AI power struggle in Paris ｜ 巴黎的人工智能权力斗争
 
-原文level 1
+精读文本level 1
 
-Some people know Kristi Noem because she killed her dog. She is the governor
-of South Da......
+A big meeting about AI (Artificial Intelligence) starts in Paris on Monday.
+It's calle......
 
-### None
-
-原文level 1
-
-More than one week ago, big fires started in Los Angeles. At least 25 people
-have died. ......
-
-### 【经济学人精读】Americans seek TikTok alternatives ｜ 美国人寻找 TikTok 的替代品
-
-原文level 1
-
-The people who own TikTok in China said they won't sell it to Elon Musk.
-America has a ......
-
-### 【经济学人精读】The mental health of chief executives ｜首席执行官的心理健康
-
-原文level 1
-
-When bosses talk about how their company is doing, people who own parts of the
-co......
-
-### 【拓展阅读】An American purchase of Greenland could be the deal of the century
-｜美国购买格陵兰可能成为世纪交易
+### 【拓展阅读】外媒如何报道《哪吒2》
 
 摘要
 
-文章探讨了美国潜在购买格陵兰岛的可能性，并分析了其战略、经济和政治意义。首先回顾了美国历史上购买领土的案例，强调了此类交易的争议性和潜在价值。随后指出，特朗普若强迫丹麦放弃格陵兰岛将是不智之......
+本文报道了中国动画电影《哪吒2》取得的巨大票房成功。《哪吒2》不仅成为中国电影史上票房最高的电影，打破了多项纪录，而且还有望成为全球单一市场票房最高的电影。文章指出，《哪吒2》在春节期间上映......
 
-### 【经济学人精读】Bezos chases Musk in the space race ｜ 贝索斯在太空竞赛中追赶马斯克
-
-原文level 1
-
-Jeff Bezos has a rocket company called Blue Origin. He owns Amazon too. His
-company want......
-
-### 【拓展阅读】Los Angeles against the flames ｜洛杉矶身陷火海
+### 【拓展阅读】Can Nintendo’s new console propel it to even greater heights
+?｜任天堂的新游戏机能否将其推向新高？
 
 摘要
 
-文章描述了发生在洛杉矶及其周边地区的破坏性野火，指出其对居民的影响和消防工作的挑战。气候变化和圣安娜风等因素加剧了洛杉矶发生火灾的风险，并导致火灾规模和频率增加。此外，在灾害发......
+文章分析了任天堂即将推出的新游戏主机Switch 2。尽管Switch
+2在硬件性能上升级幅度不大，但任天堂延续了初代Switch的成功策略，继续专注于便携性和价格优势。文章回顾了游戏主机的......
+
+### 【经济学人精读】India vs Pakistan on Netflix ｜ Netflix上的印巴对决
+
+精读文本level 1
+
+India and Pakistan have a lot of people – 1.6 billion! They are also big
+rivals......
+
+### 【经济学人精读】Civil servants dodge DOGE ｜公务员们躲避“政府效率部”
+
+精读文本level 1
+
+Thursday is the last day for government workers in America to say yes to a
+special off......
+
+### 【经济学人精读】Google’s soul-searching questions ｜ 谷歌的灵魂拷问
+
+精读文本level 1
+
+Alphabet will report its fourth-quarter earnings on Tuesday. The company’s
+profits wil......
+
+### 【经济学人精读】Bill Gates’s origin story ｜ 比尔·盖茨的起源故事
+
+精读文本level 1
+
+Bill Gates, a very famous person, has written a book called “Source Code.”
+It’s the fi......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

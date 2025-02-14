@@ -9,9 +9,14 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[.NET 内网实战攻防](https://xiaobot.net/p/dotNetAttack?refer=0b133df9-27dc-423b-8101-639049001c13)|ken|310人|34篇|2025-01-13|
+|[.NET 内网实战攻防](https://xiaobot.net/p/dotNetAttack?refer=0b133df9-27dc-423b-8101-639049001c13)|ken|316人|35篇|2025-02-13|
 
 ## 最近更新
+### .NET 通过 Sysnative 路径绕过防护启动cmd
+
+Sysnative
+路径是Windows操作系统中一个非常有用的特性，解决了32位应用程序在64位系统中访问系统目录时的路径重定向问题。通过利用这一特性，红队渗透时可以实现一些新的功能和绕过防御......
+
 ### .NET 通过findstr命令快速获取数据库密码
 
 在渗透测试和红队活动中，获取应用程序的配置文件是获取敏感信息（如数据库连接字符串、用户名和密码等）的关键步骤。我们可以利用 findstr 命令结合
@@ -57,12 +62,6 @@ Defender 是 Windows 操作系统......
 shellcode 的隐秘执行
 
 0......
-
-### .NET 通过隐藏任务计划实现权限持久化
-
-计划任务作为持久化的机制之一，也被用在红队行动中。但常见的利用方法在被安全软件阻断的同时，也没有达到隐藏效果，并提高了被发现的风险。所以需要深入理解利用计划任务，规避风险，达到持久控制。
-
-......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

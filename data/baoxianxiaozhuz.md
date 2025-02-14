@@ -8,7 +8,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Summer的保险自留地](https://xiaobot.net/p/baoxianxiaozhuz?refer=0b133df9-27dc-423b-8101-639049001c13)|Summer|2人|385篇|2024-02-08|
+|[Summer的保险自留地](https://xiaobot.net/p/baoxianxiaozhuz?refer=0b133df9-27dc-423b-8101-639049001c13)|Summer|2人|408篇|2024-02-08|
 
 ## 最近更新
 ### None

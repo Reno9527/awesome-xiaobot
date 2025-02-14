@@ -15,9 +15,17 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AI+RPA提效从入门到实战](https://xiaobot.net/p/feige1024?refer=0b133df9-27dc-423b-8101-639049001c13)|#码农飞哥 | RPA定制|604人|48篇|2025-01-21|
+|[AI+RPA提效从入门到实战](https://xiaobot.net/p/feige1024?refer=0b133df9-27dc-423b-8101-639049001c13)|#码农飞哥 | RPA定制|644人|49篇|2025-02-06|
 
 ## 最近更新
+### 做了个DeepSeek自动写作机器人！每天躺着发公众号真香
+
+原文地址：
+
+s1loee688z.feishu.cn/wiki/LWGbwdbBji19SbkAcbYcFqRunze?from=from_copylink
+
+<......
+
 ### 影刀AI Power|能调用影刀RPA的智能体
 
 AI Power是啥呢？
@@ -90,12 +98,6 @@ www.yingdao.com/commun......
 1\. 安装XPath Helper 插件
 
 使......
-
-### 案例拆解|小红书关键字搜索素材机器人-附完整代码截图
-
-一、业务场景：
-
-在实际做自媒体过程中，我们经常只需要关注本领域内爆款笔记以及对标账号，比如：如果你是做美妆的，那么，你主要精力还是关注美妆下的一些爆款笔记和对标账号。足够垂直，足够专......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

@@ -7,9 +7,19 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AIGC周刊](https://xiaobot.net/p/guizangNews?refer=0b133df9-27dc-423b-8101-639049001c13)|[歸藏](https://x.com/op7418)|665人|15篇|2025-01-19|
+|[AIGC周刊](https://xiaobot.net/p/guizangNews?refer=0b133df9-27dc-423b-8101-639049001c13)|[歸藏](https://x.com/op7418)|700人|17篇|2025-02-10|
 
 ## 最近更新
+### AIGC Weekly #108
+
+封面提示词：Light diffraction Rayleigh, science, Perfect wallpaper --chaos 100 --ar
+16:9 --style......
+
+### AIGC Weekly #107
+
+封面提示词：Light diffraction Rayleigh, science, Perfect wallpaper --chaos 100 --ar
+16:9 --profi......
+
 ### AIGC Weekly #106
 
 封面提示词：a snake, like a mythical beast, it gives off a silver glow, broken glass
@@ -70,24 +80,6 @@ Open AI说会连续12天每天在太平洋时间直播发布新东西，第一�
 上周精选✦Anthropic 发布 MCP AI 数据交换协议
 
 Anthropic上周开源了 MCP 协议，这是一个开源的标准，旨在帮助前沿 AI 模型......
-
-### AIGC Weekly #98
-
-封面提示词在这里
-
-上周精选✦Ai2发布完全开源的 Tülu 3 模型
-
-Ai2依然在坚持他们的完全开源LLM计划，不同的是这次的模型看起来很强大，意味着你跟着他的训练代码、......
-
-### AIGC Weekly #97 AI编程赛道卷起来了
-
-封面提示词在这里
-
-AI编程赛道卷起来了✦
-
-上周大选之后的余波依然在，相较于金融市场的反应，AI圈选择先观望。就谷歌发了一个模型还就说了一句话，没有更多信息。
-
-......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>
