@@ -7,7 +7,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Maeiee成长感悟](https://xiaobot.net/p/maeiee-ideas?refer=0b133df9-27dc-423b-8101-639049001c13)|maxeii|7人|33篇|2025-01-24|
+|[Maeiee成长感悟](https://xiaobot.net/p/maeiee-ideas?refer=0b133df9-27dc-423b-8101-639049001c13)|maxeii|2人|33篇|2025-01-24|
 
 ## 最近更新
 ### Vol.033 Maeiee的2024：生娃、副业、骑行、住院……

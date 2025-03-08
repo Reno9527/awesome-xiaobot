@@ -7,9 +7,15 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[曼福吉的分享](https://xiaobot.net/p/MindForge?refer=0b133df9-27dc-423b-8101-639049001c13)|MindForge|67人|66篇|2025-01-24|
+|[曼福吉的分享](https://xiaobot.net/p/MindForge?refer=0b133df9-27dc-423b-8101-639049001c13)|MindForge|70人|67篇|2025-03-06|
 
 ## 最近更新
+### @67 思考的新征程：生成式AI时代的逻辑与思辨
+
+在信息泛滥的数字时代，生成式AI的崛起既带来知识获取便利，也改变了人类与信息的关系。
+
+当ChatGPT能在几秒钟内生成看似专业的论文，我们要问：在这个新世界中，什么将成为人类不可替代......
+
 ### @66 加餐：无意识偏见
 
 用一个简单的故事来解释无意识偏见。
@@ -82,13 +88,6 @@ Stanley Druckenmiller......
 ...
 
 01......
-
-### @57 两种增长曲线
-
-Scott H. Young 曾经用一年时间完成了麻省理工学院计算机系的四年本科课程，还出了一本书，《如何高效学习：1 年完成 MIT 4年
-33门课程的整体性学习法 》，学习能力惊人。
-
-......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

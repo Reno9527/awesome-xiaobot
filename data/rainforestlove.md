@@ -22,9 +22,19 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[雨林情书 by Jess](https://xiaobot.net/p/rainforestlove?refer=0b133df9-27dc-423b-8101-639049001c13)|Jess 朱静姝|548人|60篇|2025-01-29|
+|[雨林情书 by Jess](https://xiaobot.net/p/rainforestlove?refer=0b133df9-27dc-423b-8101-639049001c13)|Jess 朱静姝|574人|61篇|2025-03-03|
 
 ## 最近更新
+### 未来的你，会感谢此刻的你
+
+这段时间都住在泰国一个冥想中心。
+
+太宝藏了，有点舍不得它变成烂大街的打卡景点，所以不想大范围分享。(嘘，名字在最后。)
+
+它完美满足了我所有的需求——
+
+......
+
 ### Bad at Being Rich
 
 2025年1月的头10天，我的雨林商学院收入50.1万。
@@ -228,14 +238,6 @@ IFS实例**](https://xiaobot.net/post/0f2e9fcf-2dbd-4503-9682-02c7d327be6e)
 
 [**Nada ——
 当宇宙给你一团空无**](https://xiaobot.net/post/48735ed2-f756-4624-9732-17605cd778e1)
-
-### 附近的榜样（二）重学走路
-
-这篇继续写一位生活中让我获益颇多的人。
-
-他就是我的Alexander Technique的私教，Patrick Johnson。
-
-（没错我这个......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

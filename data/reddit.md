@@ -8,7 +8,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Reddit营销获客增长手册](https://xiaobot.net/p/reddit?refer=0b133df9-27dc-423b-8101-639049001c13)|[Yangyi](https://x.com/Yangyixxxx)|215人|56篇|2025-02-12|
+|[Reddit营销获客增长手册](https://xiaobot.net/p/reddit?refer=0b133df9-27dc-423b-8101-639049001c13)|[Yangyi](https://x.com/Yangyixxxx)|219人|56篇|2025-02-12|
 
 ## 最近更新
 ### 广告投放 | Reddit早期投放策略

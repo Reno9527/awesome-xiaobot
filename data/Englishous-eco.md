@@ -7,78 +7,77 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[英语日食记外刊精读](https://xiaobot.net/p/Englishous-eco?refer=0b133df9-27dc-423b-8101-639049001c13)|7 sir|82人|302篇|2025-02-13|
+|[英语日食记外刊精读](https://xiaobot.net/p/Englishous-eco?refer=0b133df9-27dc-423b-8101-639049001c13)|7 sir|81人|329篇|2025-03-07|
 
 ## 最近更新
-### 【经济学人精读】Honda and Nissan’s failed tie-up ｜本田和日产合并失败
+### 【经济学人精读】Lady Gaga goes back to basics ｜ Lady Gaga回归本源
 
 精读文本level 1
 
-Honda and Nissan, two big car companies from Japan, wanted to become one very
-big comp......
+Lady Gaga has always been known for her bold choices. Her lyrics are strong,
+and she o......
 
-### 【经济学人精读】Inflation is now Trump’s problem ｜ 通货膨胀现在成了特朗普的难题
-
-精读文本level 1
-
-The first report about prices in America during Donald Trump's time as
-president came ......
-
-### 【经济学人精读】Can golf speed up? ｜ 高尔夫能加快节奏吗？
+### 【经济学人精读】Can Costco raise its fees—and profits? ｜ Costco能否提高会员费——以及利润？
 
 精读文本level 1
 
-Many sports are trying to be quicker now. In cricket, there's a short game
-called Twen......
+Costco is a very big shop. It is the third biggest shop company in the world.
+This Thu......
 
-### 【经济学人精读】An AI power struggle in Paris ｜ 巴黎的人工智能权力斗争
+### 【经济学人精读】Shovel-seller for the AI gold rush ｜ 人工智能淘金热中的“卖铲人”
 
 精读文本level 1
 
-A big meeting about AI (Artificial Intelligence) starts in Paris on Monday.
-It's calle......
+Marvell will share its yearly results on Wednesday. This American company
+makes comput......
 
-### 【拓展阅读】外媒如何报道《哪吒2》
+### 【拓展阅读】为了复活猛犸象，基因编辑让老鼠长出金毛
 
 摘要
 
-本文报道了中国动画电影《哪吒2》取得的巨大票房成功。《哪吒2》不仅成为中国电影史上票房最高的电影，打破了多项纪录，而且还有望成为全球单一市场票房最高的电影。文章指出，《哪吒2》在春节期间上映......
+Colossal Biosciences
+公司利用基因编辑技术创造出具有猛犸象特征的“猛犸象老鼠”。通过比较猛犸象和亚洲象的基因组，并在老鼠身上进行基因编辑实验，科学家们成功......
 
-### 【拓展阅读】Can Nintendo’s new console propel it to even greater heights
-?｜任天堂的新游戏机能否将其推向新高？
+### 【拓展阅读】《经济学人》如何报道最新奥斯卡获奖电影
 
 摘要
 
-文章分析了任天堂即将推出的新游戏主机Switch 2。尽管Switch
-2在硬件性能上升级幅度不大，但任天堂延续了初代Switch的成功策略，继续专注于便携性和价格优势。文章回顾了游戏主机的......
+这篇影评深入分析了电影《安诺拉》如何巧妙处理和颠覆电影中的刻板印象。影片讲述了脱衣舞女阿尼与俄罗斯寡头之子瓦尼亚的意外婚姻及后续风波，将常见的“俄罗斯寡头”和“性工作者”形象进行解构与重塑，......
 
-### 【经济学人精读】India vs Pakistan on Netflix ｜ Netflix上的印巴对决
-
-精读文本level 1
-
-India and Pakistan have a lot of people – 1.6 billion! They are also big
-rivals......
-
-### 【经济学人精读】Civil servants dodge DOGE ｜公务员们躲避“政府效率部”
+### 【经济学人精读】Due date for Trump’s tariffs ｜ 特朗普关税的最后期限
 
 精读文本level 1
 
-Thursday is the last day for government workers in America to say yes to a
-special off......
+For months, Donald Trump has said he would put high tariffs on goods from
+Canada and M......
 
-### 【经济学人精读】Google’s soul-searching questions ｜ 谷歌的灵魂拷问
+### 【拓展阅读】用Deepseek算命的中国年轻人
+
+摘要
+
+本文深入报道了中国年轻人利用 DeepSeek AI
+进行八字算命的新兴趋势，探讨了这一现象背后的社会文化背景、技术原理、商业应用以及潜在的风险和伦理问题。在经济压力增大、社会......
+
+### 【经济学人精读】Fashion’s biggest week ｜ 时尚界最重要的一周
 
 精读文本level 1
 
-Alphabet will report its fourth-quarter earnings on Tuesday. The company’s
-profits wil......
+This week, models will walk the runways in Paris for the final event of
+fashion month.......
 
-### 【经济学人精读】Bill Gates’s origin story ｜ 比尔·盖茨的起源故事
+### 【拓展阅读】A disaster in the White House for Volodymyr Zelensky—and for Ukraine
+｜泽连斯基在白宫的灾难——也是乌克兰的灾难
 
-精读文本level 1
+摘要
 
-Bill Gates, a very famous person, has written a book called “Source Code.”
-It’s the fi......
+乌克兰总统泽连斯基访美期间，与特朗普政府爆发激烈冲突，导致美乌关系骤然破裂。由于泽连斯基在会谈中未能采取妥善策略，反而激怒了特朗普及其副总统万斯，双方爆发公开争吵，美国方面指责乌克兰忘恩负义......
+
+### 【拓展阅读】AI unleashes a weird new genre of political communication
+｜人工智能开创了一种新的政治传播流派
+
+摘要
+
+人工智能技术催生了一种新型政治传播方式——AI政治讽刺视频，如“特朗普加沙”视频所示，这类视频以其荒诞幽默的内容和高超的制作技术，在社交媒体上迅速传播，引发广泛关注和讨论。这类视频并非意在制......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

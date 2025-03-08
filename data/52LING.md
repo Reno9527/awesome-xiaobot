@@ -10,9 +10,13 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[失恋后，你最好的未来是什么？](https://xiaobot.net/p/52LING?refer=0b133df9-27dc-423b-8101-639049001c13)|李志强|2人|6篇|2025-02-11|
+|[失恋后，你最好的未来是什么？](https://xiaobot.net/p/52LING?refer=0b133df9-27dc-423b-8101-639049001c13)|李志强|2人|7篇|2025-02-17|
 
 ## 最近更新
+### DeepSeek + Gamma = 优质PPT
+
+DeepSeek + Gamma = 优质PPT
+
 ### DeepSeek的十大使用入口
 
 1\. DeepSeek 官网 chat.deepseek.com DeepSeek 是一个先进的 AI

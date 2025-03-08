@@ -7,9 +7,24 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[AIGC周刊](https://xiaobot.net/p/guizangNews?refer=0b133df9-27dc-423b-8101-639049001c13)|[歸藏](https://x.com/op7418)|700人|17篇|2025-02-10|
+|[AIGC周刊](https://xiaobot.net/p/guizangNews?refer=0b133df9-27dc-423b-8101-639049001c13)|[歸藏](https://x.com/op7418)|715人|20篇|2025-03-03|
 
 ## 最近更新
+### AIGC Weekly #111
+
+封面提示词：Blue sky, a huge cute cat, a little girl quietly reading beside the cat,
+the picture......
+
+### AIGC Weekly #110
+
+封面提示词：Planet X silhouette with star ring in black and white In the center
+stands a small a......
+
+### AIGC Weekly #109
+
+封面提示词：Minimal Light leak against a black background night --ar 16:9 --style
+raw --sref 384......
+
 ### AIGC Weekly #108
 
 封面提示词：Light diffraction Rayleigh, science, Perfect wallpaper --chaos 100 --ar
@@ -56,30 +71,6 @@ Markdown，支持自定义内容位置，支持手动分......
 Veo 2视频生成模型发布
 
 谷歌发布 Veo 2 视频模型，这才是 Sora 应该有的质量，非常强大，不过目前支持使......
-
-### AIGC Weekly #101
-
-封面提示词在这里
-
-上周精选✦谷歌发布Gemini 2.0及一系列其他项目
-
-谷歌上周终于雄起了，发布了同时支持多模态输入输出的Gemini 2.0模型和一堆其他的实验性项目......
-
-### AIGC Weekly #100🎉
-
-封面提示词在这里
-
-上周精选✦Open AI 动态汇总
-
-Open AI说会连续12天每天在太平洋时间直播发布新东西，第一天晚上熬了一下，太拉垮了就是把一次发布会内容拆12次......
-
-### AIGC Weekly #99
-
-封面提示词在这里
-
-上周精选✦Anthropic 发布 MCP AI 数据交换协议
-
-Anthropic上周开源了 MCP 协议，这是一个开源的标准，旨在帮助前沿 AI 模型......
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

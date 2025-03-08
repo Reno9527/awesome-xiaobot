@@ -9,9 +9,24 @@ SEO、AI、独立站、工具站等任何出海赚美刀的方法，可以订阅
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[Google SEO与出海商业实战SOP](https://xiaobot.net/p/googleseosop?refer=0b133df9-27dc-423b-8101-639049001c13)|码神|257人|21篇|2025-01-17|
+|[Google SEO与出海商业实战SOP](https://xiaobot.net/p/googleseosop?refer=0b133df9-27dc-423b-8101-639049001c13)|码神|265人|23篇|2025-02-27|
 
 ## 最近更新
+### SEO案例分析：Canva如何通过外链和内容实现增长，实现$60亿美元估值
+
+作者：码神
+
+公众号：开发者码神
+
+微信：zy467016899
+
+码神的出海朋友圈实操体系课：www.mashen-occlub-course.......
+
+### 新手做外贸独立站的内容战略规划，很重要！看我这篇就够了
+
+很多外贸soho，
+或者公司觉得建立外贸独立站的时候，直接建个网站就上了，然后怼文章，真的太随意了，独立站搭建，需要提前规划的内容特别多，版面设计、建站选型、站点技术优化，以及内容规划，你都有认......
+
 ### 针对Semantic Triple进行文章优化
 
 Semantic
@@ -75,20 +90,6 @@ Optimization）的缩写，是一种营销策略，旨在改善访问......
 
 "Affiliate" 一种联属营销（Affiliate
 Marketing）的模式。在这种模式下，网站所有者（也称为联属站长或Affiliate）通过推......
-
-### 【Ahrefs找方向】用Ahrefs找特定细分领域的关键词SOP
-
-用Ahrefs找Seed Keyword并选择Match Term：
-
-解释：Seed Keyword是您想要针对的主要关键词。Match Term选项可以帮助您找到包含这个关键词的相关搜索词。
-
-### 【外链建设】获得 Stripe 外链的操作步骤（SOP）
-
-以下是如何通过设置捐赠给 Stripe 用于气候变化的公益用途，来获得 Stripe 提供的外链的详细操作步骤：
-
-步骤 1：登录 Stripe 账户
-
-前往 Stripe 登录页面。
 
 
 <a href="https://github.com/Reno9527/awesome-xiaobot" style="color: white; text-decoration: none;">awesome-xiaobot</a>

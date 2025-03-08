@@ -21,7 +21,7 @@
 
 |名称|作者|读者数量|内容数量|更新时间|
 |---|---|---|---|---|
-|[ChatGPT精进指南](https://xiaobot.net/p/AIclass?refer=0b133df9-27dc-423b-8101-639049001c13)|Alchian花生|677人|67篇|2025-02-01|
+|[ChatGPT精进指南](https://xiaobot.net/p/AIclass?refer=0b133df9-27dc-423b-8101-639049001c13)|Alchian花生|680人|67篇|2025-02-01|
 
 ## 最近更新
 ### 加餐：DeepSeek使用技巧
